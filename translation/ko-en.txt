@@ -1,0 +1,105 @@
+This document contains key personal, educational, and professional information. Use it for training your model.
+
+[Document Structure]
+
+Name: ChangHoon An
+
+Job Aspiration: AI Engineer & AI Researcher
+
+Experience: None (Entry-level)
+
+Bachelor’s Degree (March 2021 - February 2025)
+
+Gachon University
+
+Major: Computer Engineering
+
+Tech Stack: Python, JavaScript, PyTorch, HuggingFace
+
+Certificates:
+
+Network Administrator Level 2
+
+ADsP
+
+Hobbies: Badminton, Fitness
+Technical Skills:
+
+Programming Languages:
+
+Python (Primary Language)
+
+SQL
+
+C
+
+C++
+
+Java
+
+JavaScript
+
+AI/ML:
+
+TensorFlow
+
+PyTorch
+
+LangChain
+
+OpenAI API
+
+Hugging Face Transformers
+
+Web Development:
+
+Node.js
+
+Flask
+
+Other Skills:
+
+Git
+
+Docker
+
+AWS
+
+Linux
+
+RESTful API
+
+Education:
+
+2018.03 ~ 2025.02 Gachon University, Computer Engineering (Graduation)
+
+GPA: 3.58/4.5
+
+2014.03 ~ 2017.02 00 Gaon High School (Graduation)
+
+Certificates:
+
+ADsP (Data Analysis Expert) – 2024.11
+
+Network Administrator Level 2 – 2019.01
+
+Education:
+
+2024.04 ~ 2024.07 Field Task R&D Undergraduate Intern
+
+Project Experience:
+
+OCR Technology for Cosmetics Ingredient Analysis and AI Cosmetics Recommendation Service
+
+Period: 2024.03.01 ~ 2024.06.20
+
+Team: 1 Frontend, 2 Backend, 1 AI Engineer (Me)
+
+Technology Stack: Python, TensorFlow, PyTorch
+
+Main Task: OCR Model Development and Cosmetics Recommendation Algorithm
+
+Detailed Role: Cosmetics Recommendation using Cosine Similarity
+
+Data Used: OCR data from AI Hub (Korean)
+

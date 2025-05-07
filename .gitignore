@@ -1,5 +1,6 @@
 /.env
 /portfolio_data
+/classifier_model
 <<<<<<< HEAD
 /vector_db
 =======

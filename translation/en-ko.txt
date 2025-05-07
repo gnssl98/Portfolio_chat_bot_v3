@@ -1,0 +1,251 @@
+===== 파일: education\education_history.txt =====
+education history:
+이름: 안창훈
+
+직업 희망: AI 엔지니어 & AI 연구원
+
+경력: 없음(신입)
+
+학사 (2021년 3월 - 2025년 2월)
+- 가천대학교
+- 전공: 컴퓨터공학
+
+기술 스택: Python, JavaScript, PyTorch, HuggingFace
+
+자격증:
+- 네트워크 관리사 2급
+- ADsP
+취미: 배드민턴, 헬스
+
+===== 파일: skills\technical_skills.txt =====
+기술 스킬:
+
+프로그래밍 언어:
+- Python (주 언어)
+- SQL
+- C
+- C++
+- Java
+- JavaScript
+
+AI/ML:
+- TensorFlow
+- PyTorch
+- LangChain
+- OpenAI API
+- Hugging Face Transformers
+
+웹 개발:
+- Node.js
+- Flask
+
+기타 기술:
+- Git
+- Docker
+- AWS
+- Linux
+- RESTful API
+===== 파일: education\가천대학교_성적증명서.pdf =====
+───────────────────────────────────────────────────────
+제 출 용 도 : 취업제출용 발 급 일 : 2025/01/09
+제 출 처 : 가천대학교 유 효 기 간 : 2025/04/09
+───────────────────────────────────────────────────────
+성 적 증 명
+학 번 : 201839486 성 명 : 안창훈 소 속 : IT융합대학 컴퓨터공학과
+성 별 : 남 생년월일 : 1998.07.11 입 학 일 : 2020.03.02
+구분 교 과 목 명 학점 성적 구분 교 과 목 명 학점 성적
+인정학점계 : 60.0
+------------------------------------------------
+2020 학년도 1학기
+전필 소프트웨어공학 3.0 A+
+전선 알고리즘 3.0 A+
+전선 인공지능 3.0 A0
+일선 기계학습 3.0 A0
+일선 데이터마이닝 3.0 B+
+교선 웹 프로그래밍 입문 2.0 B0
+취득학점 : 17.0 평점 : 3.97 백분율 : 94.70
+2023 학년도 2학기
+전선 기계학습프로그래밍 3.0 A0
+전선 딥러닝응용 3.0 A0
+전선 심화프로그래밍 3.0 A0
+전선 웹DB프로그래밍 3.0 C+
+전선 클라우드 네이티브 3.0 B+
+교선 이차전지와 인공지능 3.0 A0
+취득학점 : 18.0 평점 : 3.67 백분율 : 91.70
+2024 학년도 1학기
+전선 공업수학1 3.0 B+
+전선 리눅스 3.0 C0
+전선 영상처리 3.0 B+
+전선 종합프로젝트 3.0 A+
+계교 확률과 통계 3.0 B0
+취득학점 : 15.0 평점 : 3.30 백분율 : 88.00
+2024 학년도 2학기
+전선 데이터처리프로그래밍 3.0 C+
+교선 논리적 사고 2.0 A0
+교선 인류문명과 에너지원의 변천사 3.0 B0
+교선 지성학Ⅱ 2.0 P
+취득학점 : 10.0 평점 : 3.06 백분율 : 85.60
+이 하 여 백
+백 분 율 : 90.80
+취득학점 : 120.0
+평 점 : 3.58 / 4.5
+제 2025-0006621 호
+위의 사실을 증명합니다.
+2025년 1월 9일
+가 천 대 학 교 교 무 처 장
+입학대학: 가천대학교
+성적등급:A+(95-100)4.5, A0(90-94)4.0, B+(85-89)3.5, B0(80-84)3.0, C+(75-79)2.5, C0(70-74)2.0, D+(65-69)1.5, D0(60-64)1.0, F(0-59)0, P(Pass), W(수강포기) 4.50 만점
+본 증명서는 전자증명서(파일)이므로 타임스탬프 및 전자서명이 없는 증명서는 위조로 간주 되며 파일 이외의 출력물은 사본입니다.
+
+
+===== 파일: experiences\이력서_안창훈.pdf =====
+안창훈
+Birthday 1998.07.11
+Email ach986634@gmail.com
+Mobile 010-5593-2573
+(AI Engineer)
+Address 경기도 하남시
+병역사 만기 전역
+항
+소개 / About Me
+항상 지금보다 더 나은 AI Engineer가 되기 위해 꾸준하고 성실히 노력하고 있는 안창훈입니다.
+빠르게 변화하는 AI 기술 발전에 새로운 기술 습득도 중요하지만, 기본이 중요하다고 생각합니다.
+수학에 관심이 많고 이론적인 부분을 공부하는 것을 좋아합니다.
+남에게 설명할 수 있어야 진정한 나의 지식이라고 생각하며 탐구합니다.
+토론과 토의를 선호하며, 타인에 대한 존경을 중요시합니다.
+기술 스택 / Skill Set
+기능 구현 등의 사용 경험이 있는 Skill Set
+구분 Skill
+Programing Languages Python, Tensorflow, Pytorch, Sql
+Environment Linux, Git
+사용경험은 없으나, 이론적 지식이 있는 Skill Set
+구분 Skill
+Programing Languages C, C++, JAVA
+Environment Docker
+개발자 채용 플랫폼
+과제 프로젝트 경험 * 혼자 혹은 팀 구성으로 프로젝트를 수행한 경험을 최신순으로 작성
+OCR 기술을 활용한 화장품 성분 분석, 비교 및 AI 화장품 추천 서비스 개발
+작업 기간 2024.03.01 ~ 2024.06.20
+인력 구성 Frontend 1, Backend 2, AI Engineer 1(본인)
+프로젝트 목적 화장품 성분 사진을 통해 텍스트를 추출하고 유저에게 화장품을 추천
+주요업무 한국어 기반OCR 모델 개발
+및 성분 기반으로 화장품의 Score 계산 알고리즘 개발
+상세역할 Cosine 유사도를 활용한 화장품 추천
+사용언어
+Python, Tensorflow, Pytorch | 학과 GPU 서버 사용(Linux)
+및 개발환경
+AI 모델을 개발하면서 데이터의 중요성을 실감했습니다. 참고 자료로 활용한 Naver Clovaai는
+영어 기반 모델이어서, AI Hub의 한국어 의약품, 화장품 패키징 OCR 데이터셋을 이용해 학습을
+진행했습니다.
+화장품 성분 사진에는 텍스트가 과도하게 많아, 30자 이하로 잘라서 학습시켰습니다. 그러나
+느낀 점
+데이터와 컴퓨팅 자원의 한계로 인해 Backend에서 원하는 수준의 완전한 텍스트를 추출하는 데
+어려움이 있었습니다.
+이를 극복하기 위해, 화장품 성분을 GPT Assisant에Fine-tuning하여 OCR 모델이 추출한 텍스트를
+정제하는 방식을 도입했습니다
+참고자료 https://github.com/clovaai/deep-text-recognition-benchmark/tree/master
+개발자 채용 플랫폼
+학력
+- 2021.02 ~ 2025.02 가천대학교 컴퓨터공학과 졸업 / 학점 3.58(4.5)
+- 2014.03 ~ 2017.02 00 가온고등학교 졸업
+자격증
+- ADsP (데이터 분석 준전문가) (2024.11 취득)
+- 네트워크 관리사 2급 (2019.01 취득)
+교육 내용
+- 2024.04 ~ 2024.07 Field Task R&D Undergraduate Intern
+개발자 채용 플랫폼
+
+
+===== 파일: projects\포트폴리오_안창훈.pdf =====
+안녕 난 안창훈이야야
+자비스를 만들고 싶은 안창훈입니다
+, AI 연구자, 엔지니어어 .
+🎉생일
+1998.07.11
+✉EMail
+ach986634@gmail.com
+🐱Github
+github.com/gnssl98
+📰기술 블로그그
+https://sinceredevhoon.tistory.com/
+🧑🏻‍💻
+나에 대해서서
+저는 언제나 기본과 이론의 중요성을 믿습니다.
+논문을 읽고, 확장하고, 깊이 탐구하는 과정을 즐깁니다.
+지식을 공유하고 토론하는 것을 좋아하며, 타인에게 설명하는 과정이 가장 효과적인 학
+습 방법이라고 믿습니다.
+AI는 결국 수학에 기반한 분야이며, 딥러닝 모델은 본질적으로 확률분포를 근사하는 알
+고리즘이라고 생각합니다.
+Hi Iʼm ChangHoon An 1
+경력
+공군 정보보호병병Mar.2021  Dec.2022
+🎓 가천대학교교 Mar. 2018  Feb. 2025, 컴퓨터 공학 전공🖥
+Field Task R&D Undergraduate Intern Apr. 2024  Jul. 2024 🧪
+📝
+자격증증
+📈 ADsP 데이터 분석 준전문가)  2024.11 
+🖥 네트워크 관리사 2급 - 2019.01 ~
+✏
+스터디디
+미적분, 선형대수, 공업수학, 통계학학
+Christoper M.BISHOP의 패턴인식과 머신러닝 ~CH4
+NLP 스터디디(https://github.com/gnssl98/NLP_Study)
+논문 리뷰뷰
+https://gnssl98.notion.site/paperreview?pvs=74
+논문 작업업
+Unsupervised Anomaly Detection in Network Data(IDS)를 주제로 SCI급 논문 목표
+(
+https://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection)
+🛠
+Project
+Hi Iʼm ChangHoon An 2
+Community Detection in Various Network
+Datasets Using Genetic Algorithms
+유전 알고리즘을 활용해 커뮤니티 구조를 탐지
+Global 최적화 탐색 기법인 유전 알고리즘(GA)와 Local 최적화 알고리즘인 Louvain
+을 결합
+https://github.com/gnssl98/GeneticAlgorithm
+Field Task R&D Undergraduate Intern
+시계열 데이터를 분할하는 split sequence 기법을 연구
+하이퍼파라미터 조정, 손실 함수 변경을 통해 성능 개선을 시도
+기술을 활용한 화장품 성분 분석 비교 및
+OCR , AI
+화장품 추천 서비스 개발
+(https://github.com/gnssl98/graduation_project)
+한국어 기반 모델 개발
+OCR
+Naver Clovaai deep-text-recognition-benchmark 의 OCR 모델 사용
+AI Hub의 의약품, 화장품 패키징 OCR 데이터 활용
+LMDBLightning Memory-Mapped Database) 사용
+텍스트가 많은 화장품 성분 사진을 잘라서 학습
+화장품 성분으로 Fine Tunning한 Gpt Assistant 활용하여 텍스트 정제
+(https://github.com/clovaai/deep-text-recognition-benchmark/tree/master)
+https://www.aihub.or.kr/aihubdata/data/view.do?
+currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=633
+Hi Iʼm ChangHoon An 3
+화장품 추천 서비스 개발
+Cosine similarity 을 활용한 추천
+화장품 성분의 Cosine Matrix을 만들어 스코어가 높은 것을 추천
+Sentence pair classfication
+Use KCBERT Base (beomi/kcbert-base) by Hugging Face
+Model Structure  BERT Encoder Represetations from Transformers
+Datasets
+Klue/nli by Hugging Face datasets
+https://github.com/gnssl98/NLP_Study/tree/main/Sentence_pair_classfication
+Portfolio ChatBot
+Use RAG, HuggingFace, Prompt Engineering, LoRA
+Use my portfolio PDF and resume TXT file)
+LoRA-based Fine-Tuning on Prompt-driven Translation Tasks (ko→en,
+en→ko)
+Vector DB  Extract Context  Translation Model(ko-en)  QA
+Model(English)  Translation Model(en-ko)  Output
+Model Structure
+Translation Model : facebook/mbart-large-50-one-to-many-mmt
+QA Model : google/flan-t5-large
+https://github.com/gnssl98/Portfolio-chat-bot
+Portfolio ChatBot Using GPT API(~ing)
+Use RAG, GPT API ✅) , AWS(~ing)
+Hi Iʼm ChangHoon An 4
+Use my portfolio PDF and resume TXT file)
+https://github.com/gnssl98/Portfolio-chat-bot_gpt
+Hi Iʼm ChangHoon An 5

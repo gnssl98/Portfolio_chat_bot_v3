@@ -1,0 +1,914 @@
+[
+  {
+    "src": "교육 이력:",
+    "tgt": "Educational background:",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Job aspiration : AI 엔지니어 & AI Researcher",
+    "tgt": "직업 희망 : AI 엔지니어 & AI 연구원",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "경력 : 없음(신입)",
+    "tgt": "Experience: None (Entry-level)",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "학사 (2021년 3월- 2025년 2월)",
+    "tgt": "Bachelor's degree (March 2021 - February 2025)",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "- Gachon University",
+    "tgt": "가천대학교",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "- 전공: 컴퓨터공학",
+    "tgt": "- Major: Computer Engineering",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "기술스택: Python, JavaScript, PyTorch, HuggingFace",
+    "tgt": "기술스택: Python, JavaScript, PyTorch, HuggingFace\n\n(Note: 기술스택 means \"tech stack\" in Korean, referring to the set of technologies and tools used in a particular project or field.)",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "자격증:",
+    "tgt": "Certifications:",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "- 네트워크 관리사 2급",
+    "tgt": "- Network Administrator Level 2",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "취미: 배드민턴, 헬스",
+    "tgt": "Hobbies: Badminton, working out.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "기술 스택:",
+    "tgt": "Technology stack:",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "프로그래밍 언어:",
+    "tgt": "Programming languages:",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "- C",
+    "tgt": "It seems like your sentence was cut off. Could you provide the full sentence you would like me to translate into Korean?",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "- TensorFlow",
+    "tgt": "텐서플로우",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "- Hugging Face Transformers",
+    "tgt": "안아주는 페이스 트랜스포머",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "웹 개발:",
+    "tgt": "Web development:",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "기타 기술:",
+    "tgt": "Other skills:",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "제 출 용 도 : 취업제출용 발 급 일 : 2025/01/09",
+    "tgt": "Purpose of issuance: Submission for employment Date of issue: 2025/01/09",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "제 출 처 : 가천대학교 유 효 기 간 : 2025/04/09",
+    "tgt": "Place of Issue: Gachon University Expiry Date: 2025/04/09",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "성 적 증 명",
+    "tgt": "Proof of Identity",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "학 번 : 201839486 성 명 : 안창훈 소 속 : IT융합대학 컴퓨터공학과",
+    "tgt": "Student ID: 201839486\nName: Ahn Changhoon\nAffiliated School: College of IT Convergence, Department of Computer Engineering",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "성 별 : 남 생년월일 : 1998.07.11 입 학 일 : 2020.03.02",
+    "tgt": "Gender: Male\nDate of birth: 1998.07.11\nDate of enrollment: 2020.03.02",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "구분 교 과 목 명 학점 성적 구분 교 과 목 명 학점 성적",
+    "tgt": "Course Title, Credits, and Grades are divided by subjects.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "인정학점계 : 60.0",
+    "tgt": "Credit Recognition Score: 60.0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "2020 학년도 1학기",
+    "tgt": "Spring semester of the year 2020",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전필 소프트웨어공학 3.0 A+",
+    "tgt": "I got an A+ in Software Engineering 3.0, which is a required course.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 알고리즘 3.0 A+",
+    "tgt": "Frontline Algorithm 3.0 A+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 인공지능 3.0 A0",
+    "tgt": "Advanced Artificial Intelligence 3.0 A0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "일선 기계학습 3.0 A0",
+    "tgt": "Frontline Machine Learning 3.0 A0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "일선 데이터마이닝 3.0 B+",
+    "tgt": "First-line Data Mining 3.0 B+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "교선 웹 프로그래밍 입문 2.0 B0",
+    "tgt": "Introduction to Cross-platform Web Programming 2.0 B0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "취득학점 : 17.0 평점 : 3.97 백분율 : 94.70",
+    "tgt": "Acquired credits: 17.0 GPA: 3.97 Percentage: 94.70",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "2023 학년도 2학기",
+    "tgt": "Second semester of the academic year 2023.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 기계학습프로그래밍 3.0 A0",
+    "tgt": "Frontier Machine Learning Programming 3.0 A0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 딥러닝응용 3.0 A0",
+    "tgt": "Frontier Deep Learning Application 3.0 A0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 심화프로그래밍 3.0 A0",
+    "tgt": "Advanced Programming 3.0 A0 on Front-end Technology",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 웹DB프로그래밍 3.0 C+",
+    "tgt": "Front-end Web Development 3.0 with C+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 클라우드 네이티브 3.0 B+",
+    "tgt": "Next-Generation Cloud-Native 3.0 B+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "교선 이차전지와 인공지능 3.0 A0",
+    "tgt": "Cross-Evaluation of Secondary Batteries and AI 3.0 A0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "취득학점 : 18.0 평점 : 3.67 백분율 : 91.70",
+    "tgt": "Acquired Credits: 18.0 GPA: 3.67 Percentage: 91.70",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "2024 학년도 1학기",
+    "tgt": "Spring semester of 2024.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 공업수학1 3.0 B+",
+    "tgt": "Industrial Mathematics 1 Frontline 3.0 B+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 리눅스 3.0 C0",
+    "tgt": "Frontline Linux 3.0 C0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 영상처리 3.0 B+",
+    "tgt": "Front-facing camera processing 3.0 B+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 종합프로젝트 3.0 A+",
+    "tgt": "Frontline Integrated Project 3.0 A+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "계교 확률과 통계 3.0 B0",
+    "tgt": "The probability and statistics 3.0 B0 course",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "취득학점 : 15.0 평점 : 3.30 백분율 : 88.00",
+    "tgt": "Acquired Credits: 15.0 GPA: 3.30 Percentage: 88.00",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "2024 학년도 2학기",
+    "tgt": "The second semester of the academic year 2024.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "전선 데이터처리프로그래밍 3.0 C+",
+    "tgt": "Front-end data processing programming 3.0 C+",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "교선 논리적 사고 2.0 A0",
+    "tgt": "Cross-Logical Thinking 2.0 A0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "교선 인류문명과 에너지원의 변천사 3.0 B0",
+    "tgt": "The Evolution of Human Civilization and Energy Sources 3.0 B0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "교선 지성학Ⅱ 2.0 P",
+    "tgt": "Cross-Sectional Intelligence Studies Ⅱ 2.0 P",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "취득학점 : 10.0 평점 : 3.06 백분율 : 85.60",
+    "tgt": "Acquired credits: 10.0 GPA: 3.06 Percentage: 85.60",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "이 하 여 백",
+    "tgt": "Could you provide more context or clarify the meaning of \"이 하 여 백\"? It is hard to provide an accurate translation without further information.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "백 분 율 : 90.80",
+    "tgt": "Percentage: 90.80",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "취득학점 : 120.0",
+    "tgt": "Total credits earned: 120.0",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "평 점 : 3.58 / 4.5",
+    "tgt": "Rating: 3.58 out of 4.5",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "제 2025-0006621 호",
+    "tgt": "2025-0006621번째입니다.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "위의 사실을 증명합니다.",
+    "tgt": "Proves the above fact.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "2025년 1월 9일",
+    "tgt": "January 9, 2025",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "가 천 대 학 교 교 무 처 장",
+    "tgt": "The head of the administration office at K University.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "입학대학: 가천대학교",
+    "tgt": "College/University: Gachon University",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "성적등급:A+(95-100)4.5, A0(90-94)4.0, B+(85-89)3.5, B0(80-84)3.0, C+(75-79)2.5, C0(70-74)2.0, D+(65-69)1.5, D0(60-64)1.0, F(0-59)0, P(Pass), W(수강포기) 4.50 만점",
+    "tgt": "성적등급: A+(95-100) 4.5, A0(90-94) 4.0, B+(85-89) 3.5, B0(80-84) 3.0, C+(75-79) 2.5, C0(70-74) 2.0, D+(65-69) 1.5, D0(60-64) 1.0, F(0-59) 0, P(합격), W(수강포기) 4.50 만점",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "본 증명서는 전자증명서(파일)이므로 타임스탬프 및 전자서명이 없는 증명서는 위조로 간주 되며 파일 이외의 출력물은 사본입니다.",
+    "tgt": "As this document is an electronic certificate (file), certificates without timestamps and electronic signatures are considered forged, and any output other than the file is a copy.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "안창훈",
+    "tgt": "An Chang-hoon.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "병역사 만기 전역",
+    "tgt": "Completion of military service before the deadline",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "항",
+    "tgt": "항입니다.\n\n(해당 문장은 한 단어이기 때문에 \"It's a port\"나 \"It's a harbor\"와 같은 더 많은 맥락을 제공할 수 있는 영어 번역이 어렵습니다.)",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "소개 / About Me",
+    "tgt": "자기 소개 / 나에 대하여",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "항상 지금보다 더 나은 AI Engineer가 되기 위해 꾸준하고 성실히 노력하고 있는 안창훈입니다.",
+    "tgt": "My name is Ahn Chang-hoon, and I am constantly striving diligently to become a better AI Engineer than I am now.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "빠르게 변화하는 AI 기술 발전에 새로운 기술 습득도 중요하지만, 기본이 중요하다고 생각합니다.",
+    "tgt": "In the rapidly evolving field of AI technology, while acquiring new skills is important, I believe that having a strong foundation is equally crucial.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "수학에 관심이 많고 이론적인 부분을 공부하는 것을 좋아합니다.",
+    "tgt": "I have a keen interest in mathematics and enjoy studying the theoretical aspects of the subject.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "남에게 설명할 수 있어야 진정한 나의 지식이라고 생각하며 탐구합니다.",
+    "tgt": "I pursue knowledge believing that it is truly mine only when I can explain it to others.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "토론과 토의를 선호하며, 타인에 대한 존경을 중요시합니다.",
+    "tgt": "I prefer discussions and dialogues, and I consider respect for others important.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "기능 구현 등의 사용 경험이 있는 Skill Set",
+    "tgt": "Skill set with experience in implementing functions and more.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Programing Languages Python, Tensorflow, Pytorch, Sql",
+    "tgt": "프로그래밍 언어 Python, Tensorflow, Pytorch, Sql",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "사용경험은 없으나, 이론적 지식이 있는 Skill Set",
+    "tgt": "Although lacking practical experience, possessing theoretical knowledge Skill Set.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "개발자 채용 플랫폼",
+    "tgt": "Developer recruitment platform",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "과제 프로젝트 경험 * 혼자 혹은 팀 구성으로 프로젝트를 수행한 경험을 최신순으로 작성",
+    "tgt": "Please list your project experiences in reverse chronological order, including both individual and team projects.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "OCR 기술을 활용한 화장품 성분 분석, 비교 및 AI 화장품 추천 서비스 개발",
+    "tgt": "Development of a service utilizing OCR technology for analyzing and comparing cosmetic ingredients, as well as AI-based recommendation for cosmetics.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "작업 기간 2024.03.01 ~ 2024.06.20",
+    "tgt": "The work period is from March 1, 2024, to June 20, 2024.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "프로젝트 목적 화장품 성분 사진을 통해 텍스트를 추출하고 유저에게 화장품을 추천",
+    "tgt": "Translate the following sentence into natural English:\n\nExtract text from cosmetic ingredient photos for the purpose of the project and recommend cosmetics to users.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "주요업무 한국어 기반OCR 모델 개발",
+    "tgt": "Development of a Korean-based OCR model for primary tasks.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "및 성분 기반으로 화장품의 Score 계산 알고리즘 개발",
+    "tgt": "Developing a scoring algorithm for cosmetics based on ingredients.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "상세역할 Cosine 유사도를 활용한 화장품 추천",
+    "tgt": "Recommendation of cosmetics using detailed role Cosine similarity.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "사용언어",
+    "tgt": "Language used",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Python, Tensorflow, Pytorch | 학과 GPU 서버 사용(Linux)",
+    "tgt": "파이썬, 텐서플로우, 파이토치 | 학과 GPU 서버 사용(리눅스)",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "및 개발환경",
+    "tgt": "Development environment and settings",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "AI 모델을 개발하면서 데이터의 중요성을 실감했습니다. 참고 자료로 활용한 Naver Clovaai는",
+    "tgt": "While developing an AI model, I realized the importance of data. Naver Clovaai was used as a reference.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "영어 기반 모델이어서, AI Hub의 한국어 의약품, 화장품 패키징 OCR 데이터셋을 이용해 학습을",
+    "tgt": "As it is an English-based model, it learns using AI Hub's Korean pharmaceutical and cosmetic packaging OCR dataset.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "진행했습니다.",
+    "tgt": "It went smoothly.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "화장품 성분 사진에는 텍스트가 과도하게 많아, 30자 이하로 잘라서 학습시켰습니다. 그러나",
+    "tgt": "In the cosmetics ingredient photos, there was too much text, so I cut it to under 30 characters for training. However,",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "느낀 점",
+    "tgt": "Impressions",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "데이터와 컴퓨팅 자원의 한계로 인해 Backend에서 원하는 수준의 완전한 텍스트를 추출하는 데",
+    "tgt": "Due to limitations in data and computing resources, extracting complete text at the desired level from the backend.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "어려움이 있었습니다.",
+    "tgt": "There were difficulties.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "정제하는 방식을 도입했습니다",
+    "tgt": "We have introduced a new refining method.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "참고자료 https://github.com/clovaai/deep-text-recognition-benchmark/tree/master",
+    "tgt": "Here is the translation of the sentence into English:\n\nReference material: https://github.com/clovaai/deep-text-recognition-benchmark/tree/master",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "개발자 채용 플랫폼",
+    "tgt": "Developer recruitment platform.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "학력",
+    "tgt": "Education",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "- 2021.02 ~ 2025.02 가천대학교 컴퓨터공학과 졸업 / 학점 3.58(4.5)",
+    "tgt": "- Graduated from the Computer Science Department at Gachon University with a GPA of 3.58 out of 4.5 from February 2021 to February 2025.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "- 2014.03 ~ 2017.02 00 가온고등학교 졸업",
+    "tgt": "- Graduated from Goan High School from March 2014 to February 2017.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "자격증",
+    "tgt": "Qualification or certificate",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "- ADsP (데이터 분석 준전문가) (2024.11 취득)",
+    "tgt": "- AdSP (Associate Data Science Professional) certification achieved in November 2024.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "- 네트워크 관리사 2급 (2019.01 취득)",
+    "tgt": "- Obtained Level 2 Network Administrator certification in January 2019.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "교육 내용",
+    "tgt": "The contents of education.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "개발자 채용 플랫폼",
+    "tgt": "Developer recruitment platform.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "자비스를 만들고 싶은 안창훈입니다",
+    "tgt": "I am An Chang-hoon, who wants to create Jarvis.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "🎉Birth",
+    "tgt": "출생",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "github.com/gnssl98",
+    "tgt": "github.com/gnssl98\n\n깃허브 닷컴 슬래시 지엔에스엘98",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "About me",
+    "tgt": "제 소개",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "저는 언제나 기본과 이론의 중요성을 믿습니다.",
+    "tgt": "I always believe in the importance of fundamentals and theory.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "논문을 읽고, 확장하고, 깊이 탐구하는 과정을 즐깁니다.",
+    "tgt": "I enjoy reading, expanding, and delving deep into research papers.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "지식을 공유하고 토론하는 것을 좋아하며, 타인에게 설명하는 과정이 가장 효과적인 학",
+    "tgt": "I enjoy sharing knowledge and engaging in discussions, and I find that explaining things to others is the most effective way of learning.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "습 방법이라고 믿습니다.",
+    "tgt": "I believe it's a learning method.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "AI는 결국 수학에 기반한 분야이며, 딥러닝 모델은 본질적으로 확률분포를 근사하는 알",
+    "tgt": "AI is ultimately a field based on mathematics, and deep learning models fundamentally approximate probability distributions.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "고리즘이라고 생각합니다.",
+    "tgt": "I think it's a vicious circle.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Air Force Information Security SoldierMar.2021  Dec.2022",
+    "tgt": "공군 정보보안 병사2021년 3월  2022년 12월",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "🎓 Gachon University Mar. 2018  Feb. 2025, Major in Computer Engineering 🖥",
+    "tgt": "가천대학교 컴퓨터 공학 전공, 2018년 3월부터 2025년 2월까지",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "📈 ADsP 데이터 분석 준전문가)  2024.11 ",
+    "tgt": "📈 The Accredited Data Scientist Professional (ADsP) exam will be held in November 2024.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "🖥 네트워크 관리사 2급 - 2019.01 ~",
+    "tgt": "🖥 Network Administrator Level 2 - January 2019 ~",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Study",
+    "tgt": "공부 (gongbu)",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Calculus, Linear Algebra, Engineering Mathematics, Statistics",
+    "tgt": "미적분학, 선형대수학, 공학수학, 통계학",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Pattern Recognition and Machine Learning by Christoper M.",
+    "tgt": "패턴 인식과 기계 학습 by Christoper M.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "BISHOP ~CH4",
+    "tgt": "주교 찰스 4장",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "NLP Study(https://github.com/gnssl98/NLP_Study)",
+    "tgt": "NLP Study(https://github.com/gnssl98/NLP_Study)을(를) 공부 중입니다.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Paper Work",
+    "tgt": "서류 작업",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Unsupervised Anomaly Detection in Network Data(IDS)를 주제로 SCI급 논문 목표",
+    "tgt": "네트워크 데이터(IDS)에서의 무감독 이상 탐지를 주제로 SCI급 논문을 목표로 한다.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "https://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection)",
+    "tgt": "https://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection) 을(를) 번역해주세요.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Community Detection in Various Network",
+    "tgt": "다양한 네트워크에서의 커뮤니티 감지",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Datasets Using Genetic Algorithms",
+    "tgt": "유전 알고리즘을 사용하는 데이터 세트",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "유전 알고리즘을 활용해 커뮤니티 구조를 탐지",
+    "tgt": "Detect community structure using genetic algorithms.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Global 최적화 탐색 기법인 유전 알고리즘(GA)와 Local 최적화 알고리즘인 Louvain",
+    "tgt": "The genetic algorithm (GA) as a global optimization search method and the Louvain algorithm as a local optimization method.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "을 결합",
+    "tgt": "Combine it.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "하이퍼파라미터 조정, 손실 함수 변경을 통해 성능 개선을 시도",
+    "tgt": "Attempt to improve performance through hyperparameter tuning and changing loss functions.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "기술을 활용한 화장품 성분 분석 비교 및",
+    "tgt": "Comparison and analysis of cosmetic ingredients using technology.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "화장품 추천 서비스 개발",
+    "tgt": "Development of a cosmetics recommendation service.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "한국어 기반 모델 개발",
+    "tgt": "Developing a model based on Korean language",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Naver Clovaai deep-text-recognition-benchmark 의 OCR 모델 사용",
+    "tgt": "네이버 클로바는 deep-text-recognition-benchmark의 OCR 모델을 사용합니다.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "AI Hub의 의약품, 화장품 패키징 OCR 데이터 활용",
+    "tgt": "Utilizing AI Hub's OCR data for pharmaceutical and cosmetics packaging.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "LMDBLightning Memory-Mapped Database) 사용",
+    "tgt": "LMDB(Lightning Memory-Mapped Database)를 사용합니다.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "텍스트가 많은 화장품 성분 사진을 잘라서 학습",
+    "tgt": "Cut and learn from photos of cosmetic ingredient labels with a lot of text.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "화장품 추천 서비스 개발",
+    "tgt": "Development of a cosmetics recommendation service.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "화장품 성분의 Cosine Matrix을 만들어 스코어가 높은 것을 추천",
+    "tgt": "Create a Cosine Matrix of cosmetic ingredients and recommend those with high scores.",
+    "src_lang": "ko_KR",
+    "tgt_lang": "en_XX"
+  },
+  {
+    "src": "Use KCBERT Base (beomi/kcbert-base) by Hugging Face",
+    "tgt": "허깅페이스(Hugging Face)의 KCBERT Base (beomi/kcbert-base)를 사용하십시오.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Model Structure  BERT Encoder Represetations from Transformers",
+    "tgt": "모델 구조: 트랜스포머에서 온 BERT 인코더 표현",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Portfolio ChatBot",
+    "tgt": "포트폴리오 챗봇",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Use RAG, HuggingFace, Prompt Engineering, LoRA",
+    "tgt": "RAG, HuggingFace, Prompt Engineering, LoRA를 사용하세요.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Use my portfolio PDF and resume TXT file)",
+    "tgt": "저의 포트폴리오 PDF와 이력서 (TXT 파일)을 사용해주세요.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "LoRA-based Fine-Tuning on Prompt-driven Translation Tasks (ko→en,",
+    "tgt": "프롬프트 주도 번역 작업에서의 LoRA 기반 파인튜닝",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Vector DB  Extract Context  Translation Model(ko-en)  QA",
+    "tgt": "벡터 데이터베이스 조회 컨텍스트 추출 번역 모델(ko-en)과 QA",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Translation Model : facebook/mbart-large-50-one-to-many-mmt",
+    "tgt": "번역 모델: facebook/mbart-large-50-one-to-many-mmt",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Portfolio ChatBot Using GPT API(~ing)",
+    "tgt": "GPT API를 활용한 포트폴리오 챗봇(~중)",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  },
+  {
+    "src": "Use my portfolio PDF and resume TXT file)",
+    "tgt": "제 포트폴리오 PDF와 이력서(텍스트 파일)를 사용하세요.",
+    "src_lang": "en_XX",
+    "tgt_lang": "ko_KR"
+  }
+]

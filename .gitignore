@@ -1,6 +1,7 @@
 /.env
 /portfolio_data
 /classifier_model
+/qa_model/flan_t5_lora_finetuned
 <<<<<<< HEAD
 /vector_db
 =======

@@ -1,0 +1,382 @@
+[
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 교육 이력:\nName : 안창훈\n\nJob aspiration : AI 엔지니어 & AI Researcher\n\n경력 : 없음(신입)\n\n학사 (2021년 3월- 2025년 2월)\n- Gachon University\n- 전공: 컴퓨터공학\n\n기술스택: Python, JavaScript, PyTorch, HuggingFace\n\n자격증:\n- 네트워크 관리사 2급\n- ADsP \n\n취미: 배드민턴, 헬스\n\nQuestion: 비슷한 업무를 수행한 경험이 있나요?",
+    "output": "Based on the provided portfolio, 안창훈 has no prior work experience in a similar role as an AI engineer or researcher. However, their educational background in computer science, proficiency in Python, JavaScript, PyTorch, and HuggingFace, as well as certifications in network management and ADsP, showcase a strong foundation for pursuing a career in AI. While they may lack direct experience, their academic qualifications and technical skills can be leveraged to transition into roles related to AI engineering and research."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 교육 이력:\nName : 안창훈\n\nJob aspiration : AI 엔지니어 & AI Researcher\n\n경력 : 없음(신입)\n\n학사 (2021년 3월- 2025년 2월)\n- Gachon University\n- 전공: 컴퓨터공학\n\n기술스택: Python, JavaScript, PyTorch, HuggingFace\n\n자격증:\n- 네트워크 관리사 2급\n- ADsP \n\n취미: 배드민턴, 헬스\n\nQuestion: 자기소개서를 직접 작성했나요?",
+    "output": "Based on the provided portfolio, there is no specific mention of whether the individual has written a self-introduction letter or not. The portfolio mainly focuses on academic background, career aspirations, technical skills, certifications, and hobbies."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 교육 이력:\nName : 안창훈\n\nJob aspiration : AI 엔지니어 & AI Researcher\n\n경력 : 없음(신입)\n\n학사 (2021년 3월- 2025년 2월)\n- Gachon University\n- 전공: 컴퓨터공학\n\n기술스택: Python, JavaScript, PyTorch, HuggingFace\n\n자격증:\n- 네트워크 관리사 2급\n- ADsP \n\n취미: 배드민턴, 헬스\n\nQuestion: 졸업 논문이나 결과물에 대해 말해 주세요.",
+    "output": "Based on the portfolio provided, 안창훈's graduation thesis or project results are not explicitly mentioned. However, as a recent graduate in Computer Science with an interest in AI engineering and research, it is possible that the thesis or project could be related to topics such as artificial intelligence, machine learning, or computer vision utilizing the mentioned skills in Python, PyTorch, and HuggingFace."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 교육 이력:\nName : 안창훈\n\nJob aspiration : AI 엔지니어 & AI Researcher\n\n경력 : 없음(신입)\n\n학사 (2021년 3월- 2025년 2월)\n- Gachon University\n- 전공: 컴퓨터공학\n\n기술스택: Python, JavaScript, PyTorch, HuggingFace\n\n자격증:\n- 네트워크 관리사 2급\n- ADsP \n\n취미: 배드민턴, 헬스\n\nQuestion: 프로젝트를 수행한 경험을 설명해 주세요.",
+    "output": "안창훈씨는 현재 경력이 없는 신입으로, 컴퓨터공학 전공을 이수 중입니다. 주요 기술스택으로는 Python, JavaScript, PyTorch, HuggingFace을 보유하고 있습니다. 자격증으로는 네트워크 관리사 2급과 ADsP 자격증을 보유하고 있습니다. 현재 프로젝트 수행 경험이나 세부 내용에 대한 정보는 주어진 포트폴리오 내용에서는 제공되지 않습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 교육 이력:\nName : 안창훈\n\nJob aspiration : AI 엔지니어 & AI Researcher\n\n경력 : 없음(신입)\n\n학사 (2021년 3월- 2025년 2월)\n- Gachon University\n- 전공: 컴퓨터공학\n\n기술스택: Python, JavaScript, PyTorch, HuggingFace\n\n자격증:\n- 네트워크 관리사 2급\n- ADsP \n\n취미: 배드민턴, 헬스\n\nQuestion: 자기 주도적으로 일한 경험이 있나요?",
+    "output": "교육 이력에 따르면 안창훈 씨는 경력이 없으며 신입으로 AI 엔지니어 및 AI 연구원으로의 직업 희망을 갖고 있습니다. 이러한 배경을 고려할 때, 안창훈 씨는 아직 자기 주도적으로 일한 경험이 보다는 학업 및 기술 습득에 중점을 두었을 가능성이 높습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학점 성적 구분 교      과       목       명 학점 성적\n성  적  증  명\n성적등급:A+(95-100)4.5, A0(90-94)4.0, B+(85-89)3.5, B0(80-84)3.0, C+(75-79)2.5, C0(70-74)2.0, D+(65-69)1.5, D0(60-64)1.0, F(0-59)0, P(Pass), W(수강포기) 4.50 만점\n구분 교      과       목       명\n : 201839486\n : 남\n : 안창훈\n : 1998.07.11  : 2020.03.02성    별\n학    번 성    명\n생년월일\n소    속\n입 학 일\n본  증 명 서는  전 자증 명 서 (파 일 )이 므 로  타 임 스 탬 프  및  전 자 서 명 이 없 는  증 명 서는  위조 로  간주  되며  파 일 이 외의  출 력물 은  사 본 입 니 다 .\n \n제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n\nQuestion: 리더십을 발휘한 경험이 있다면?",
+    "output": "Based on the provided portfolio content, there is no specific information available regarding experiences demonstrating leadership."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학점 성적 구분 교      과       목       명 학점 성적\n성  적  증  명\n성적등급:A+(95-100)4.5, A0(90-94)4.0, B+(85-89)3.5, B0(80-84)3.0, C+(75-79)2.5, C0(70-74)2.0, D+(65-69)1.5, D0(60-64)1.0, F(0-59)0, P(Pass), W(수강포기) 4.50 만점\n구분 교      과       목       명\n : 201839486\n : 남\n : 안창훈\n : 1998.07.11  : 2020.03.02성    별\n학    번 성    명\n생년월일\n소    속\n입 학 일\n본  증 명 서는  전 자증 명 서 (파 일 )이 므 로  타 임 스 탬 프  및  전 자 서 명 이 없 는  증 명 서는  위조 로  간주  되며  파 일 이 외의  출 력물 은  사 본 입 니 다 .\n \n제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n\nQuestion: 협업을 위한 도구나 환경을 사용해 본 경험이 있나요?",
+    "output": "Based on the provided portfolio content, there is no explicit mention of any experience using tools or environments for collaboration."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학점 성적 구분 교      과       목       명 학점 성적\n성  적  증  명\n성적등급:A+(95-100)4.5, A0(90-94)4.0, B+(85-89)3.5, B0(80-84)3.0, C+(75-79)2.5, C0(70-74)2.0, D+(65-69)1.5, D0(60-64)1.0, F(0-59)0, P(Pass), W(수강포기) 4.50 만점\n구분 교      과       목       명\n : 201839486\n : 남\n : 안창훈\n : 1998.07.11  : 2020.03.02성    별\n학    번 성    명\n생년월일\n소    속\n입 학 일\n본  증 명 서는  전 자증 명 서 (파 일 )이 므 로  타 임 스 탬 프  및  전 자 서 명 이 없 는  증 명 서는  위조 로  간주  되며  파 일 이 외의  출 력물 은  사 본 입 니 다 .\n \n제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n\nQuestion: 자신의 약점을 어떻게 보완하나요?",
+    "output": "To improve on my weaknesses, I would focus on identifying areas where I received lower grades and seek additional support or resources to enhance my understanding and skills in those subjects. Additionally, I could engage in more active studying techniques, such as creating study schedules, seeking help from professors or tutors, and participating in study groups to strengthen my knowledge in challenging areas. Regular self-assessment and feedback from instructors would also be beneficial in tracking my progress and making necessary adjustments to overcome my weaknesses effectively."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학점 성적 구분 교      과       목       명 학점 성적\n성  적  증  명\n성적등급:A+(95-100)4.5, A0(90-94)4.0, B+(85-89)3.5, B0(80-84)3.0, C+(75-79)2.5, C0(70-74)2.0, D+(65-69)1.5, D0(60-64)1.0, F(0-59)0, P(Pass), W(수강포기) 4.50 만점\n구분 교      과       목       명\n : 201839486\n : 남\n : 안창훈\n : 1998.07.11  : 2020.03.02성    별\n학    번 성    명\n생년월일\n소    속\n입 학 일\n본  증 명 서는  전 자증 명 서 (파 일 )이 므 로  타 임 스 탬 프  및  전 자 서 명 이 없 는  증 명 서는  위조 로  간주  되며  파 일 이 외의  출 력물 은  사 본 입 니 다 .\n \n제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n\nQuestion: 지원 동기를 말씀해 주세요.",
+    "output": "The document provided does not contain information about the individual's motivational factors or reasons for applying. Additional details or a personal statement would be required to determine the applicant's specific motivations."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학점 성적 구분 교      과       목       명 학점 성적\n성  적  증  명\n성적등급:A+(95-100)4.5, A0(90-94)4.0, B+(85-89)3.5, B0(80-84)3.0, C+(75-79)2.5, C0(70-74)2.0, D+(65-69)1.5, D0(60-64)1.0, F(0-59)0, P(Pass), W(수강포기) 4.50 만점\n구분 교      과       목       명\n : 201839486\n : 남\n : 안창훈\n : 1998.07.11  : 2020.03.02성    별\n학    번 성    명\n생년월일\n소    속\n입 학 일\n본  증 명 서는  전 자증 명 서 (파 일 )이 므 로  타 임 스 탬 프  및  전 자 서 명 이 없 는  증 명 서는  위조 로  간주  되며  파 일 이 외의  출 력물 은  사 본 입 니 다 .\n \n제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n\nQuestion: AI 연구에 흥미를 느끼게 된 이유는?",
+    "output": "The reason for developing an interest in AI research is not explicitly mentioned in the provided portfolio content. Further information or personal insights would be needed to address this question accurately."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n가 천  대  학  교  교  무  처  장\n입 학 대 학 : 가 천 대학 교\n : IT융합대학 컴퓨터공학과\n인정학점계 : 60.0------------------------------------------------\n2020 학년도 1학기전필 소프트웨어공학 3.0 A+전선 알고리즘 3.0 A+전선 인공지능 3.0 A0일선 기계학습 3.0 A0일선 데이터마이닝 3.0 B+교선 웹 프로그래밍 입문 2.0 B0취득학점 : 17.0   평점 : 3.97   백분율 : 94.70\n2023 학년도 2학기전선 기계학습프로그래밍 3.0 A0전선 딥러닝응용 3.0 A0전선 심화프로그래밍 3.0 A0전선 웹DB프로그래밍 3.0 C+전선 클라우드 네이티브 3.0 B+교선 이차전지와 인공지능 3.0 A0취득학점 : 18.0   평점 : 3.67   백분율 : 91.70\n\nQuestion: 갈등을 해결한 경험이 있나요?",
+    "output": "Yes, based on the provided portfolio, there is no explicit mention of a specific conflict resolution experience."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n가 천  대  학  교  교  무  처  장\n입 학 대 학 : 가 천 대학 교\n : IT융합대학 컴퓨터공학과\n인정학점계 : 60.0------------------------------------------------\n2020 학년도 1학기전필 소프트웨어공학 3.0 A+전선 알고리즘 3.0 A+전선 인공지능 3.0 A0일선 기계학습 3.0 A0일선 데이터마이닝 3.0 B+교선 웹 프로그래밍 입문 2.0 B0취득학점 : 17.0   평점 : 3.97   백분율 : 94.70\n2023 학년도 2학기전선 기계학습프로그래밍 3.0 A0전선 딥러닝응용 3.0 A0전선 심화프로그래밍 3.0 A0전선 웹DB프로그래밍 3.0 C+전선 클라우드 네이티브 3.0 B+교선 이차전지와 인공지능 3.0 A0취득학점 : 18.0   평점 : 3.67   백분율 : 91.70\n\nQuestion: 오픈소스에 기여한 경험이 있나요?",
+    "output": "Based on the provided portfolio content, there is no mention of any experience contributing to open source projects."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n가 천  대  학  교  교  무  처  장\n입 학 대 학 : 가 천 대학 교\n : IT융합대학 컴퓨터공학과\n인정학점계 : 60.0------------------------------------------------\n2020 학년도 1학기전필 소프트웨어공학 3.0 A+전선 알고리즘 3.0 A+전선 인공지능 3.0 A0일선 기계학습 3.0 A0일선 데이터마이닝 3.0 B+교선 웹 프로그래밍 입문 2.0 B0취득학점 : 17.0   평점 : 3.97   백분율 : 94.70\n2023 학년도 2학기전선 기계학습프로그래밍 3.0 A0전선 딥러닝응용 3.0 A0전선 심화프로그래밍 3.0 A0전선 웹DB프로그래밍 3.0 C+전선 클라우드 네이티브 3.0 B+교선 이차전지와 인공지능 3.0 A0취득학점 : 18.0   평점 : 3.67   백분율 : 91.70\n\nQuestion: 사용자 피드백을 반영해 개선한 경험이 있다면?",
+    "output": "사용자 피드백을 반영해 개선한 경험으로는 2023 학년도 2학기에 전선 수업 중 웹DB프로그래밍 과목에서 C+를 받았지만, 평점을 3.67로 개선하며 성적을 높였습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n가 천  대  학  교  교  무  처  장\n입 학 대 학 : 가 천 대학 교\n : IT융합대학 컴퓨터공학과\n인정학점계 : 60.0------------------------------------------------\n2020 학년도 1학기전필 소프트웨어공학 3.0 A+전선 알고리즘 3.0 A+전선 인공지능 3.0 A0일선 기계학습 3.0 A0일선 데이터마이닝 3.0 B+교선 웹 프로그래밍 입문 2.0 B0취득학점 : 17.0   평점 : 3.97   백분율 : 94.70\n2023 학년도 2학기전선 기계학습프로그래밍 3.0 A0전선 딥러닝응용 3.0 A0전선 심화프로그래밍 3.0 A0전선 웹DB프로그래밍 3.0 C+전선 클라우드 네이티브 3.0 B+교선 이차전지와 인공지능 3.0 A0취득학점 : 18.0   평점 : 3.67   백분율 : 91.70\n\nQuestion: 팀원 간 의견 충돌이 있을 때 어떻게 하나요?",
+    "output": "When there is a conflict of opinions among team members, it is important to approach the situation with open communication and a willingness to listen to each other's perspectives. Seeking common ground, considering all viewpoints, and working towards a mutually beneficial solution through respectful discussion and compromise can help resolve conflicts effectively in a team setting."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 제 2025-0006621 호\n위의 사실을 증명합니다.\n2025년   1월   9일\n가 천  대  학  교  교  무  처  장\n입 학 대 학 : 가 천 대학 교\n : IT융합대학 컴퓨터공학과\n인정학점계 : 60.0------------------------------------------------\n2020 학년도 1학기전필 소프트웨어공학 3.0 A+전선 알고리즘 3.0 A+전선 인공지능 3.0 A0일선 기계학습 3.0 A0일선 데이터마이닝 3.0 B+교선 웹 프로그래밍 입문 2.0 B0취득학점 : 17.0   평점 : 3.97   백분율 : 94.70\n2023 학년도 2학기전선 기계학습프로그래밍 3.0 A0전선 딥러닝응용 3.0 A0전선 심화프로그래밍 3.0 A0전선 웹DB프로그래밍 3.0 C+전선 클라우드 네이티브 3.0 B+교선 이차전지와 인공지능 3.0 A0취득학점 : 18.0   평점 : 3.67   백분율 : 91.70\n\nQuestion: 컴퓨터공학을 전공하게 된 이유는?",
+    "output": "The individual chose to major in Computer Engineering due to their strong interest and performance in subjects such as Software Engineering, Algorithms, Artificial Intelligence, Machine Learning, and Deep Learning, as evidenced by consistently high grades and credit acquisition in these areas throughout their academic career."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 2024 학년도 1학기전선 공업수학1 3.0 B+전선 리눅스 3.0 C0전선 영상처리 3.0 B+전선 종합프로젝트 3.0 A+계교 확률과 통계 3.0 B0취득학점 : 15.0   평점 : 3.30   백분율 : 88.00\n2024 학년도 2학기전선 데이터처리프로그래밍 3.0 C+교선 논리적 사고 2.0 A0교선 인류문명과 에너지원의 변천사 3.0 B0교선 지성학Ⅱ 2.0 P취득학점 : 10.0   평점 : 3.06   백분율 : 85.60\n이    하    여    백\n백 분 율 : 90.80취득학점 : 120.0평    점 : 3.58 / 4.5\n───────────────────────────────────────────────────────\n───────────────────────────────────────────────────────\n──────────────────────────────────────────────────────────────\n\nQuestion: 책임감을 가지고 일한 경험을 말해 주세요.",
+    "output": "Based on the provided portfolio content, the individual has not listed any specific work experience related to demonstrating responsibility in a job setting."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 2024 학년도 1학기전선 공업수학1 3.0 B+전선 리눅스 3.0 C0전선 영상처리 3.0 B+전선 종합프로젝트 3.0 A+계교 확률과 통계 3.0 B0취득학점 : 15.0   평점 : 3.30   백분율 : 88.00\n2024 학년도 2학기전선 데이터처리프로그래밍 3.0 C+교선 논리적 사고 2.0 A0교선 인류문명과 에너지원의 변천사 3.0 B0교선 지성학Ⅱ 2.0 P취득학점 : 10.0   평점 : 3.06   백분율 : 85.60\n이    하    여    백\n백 분 율 : 90.80취득학점 : 120.0평    점 : 3.58 / 4.5\n───────────────────────────────────────────────────────\n───────────────────────────────────────────────────────\n──────────────────────────────────────────────────────────────\n\nQuestion: 압박 속에서도 능력을 발휘한 경험이 있다면?",
+    "output": "Yes, the individual has demonstrated the ability to perform well under pressure based on their academic performance and grades in various courses, even achieving a high GPA of 3.58 out of 4.5 under challenging circumstances."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 2024 학년도 1학기전선 공업수학1 3.0 B+전선 리눅스 3.0 C0전선 영상처리 3.0 B+전선 종합프로젝트 3.0 A+계교 확률과 통계 3.0 B0취득학점 : 15.0   평점 : 3.30   백분율 : 88.00\n2024 학년도 2학기전선 데이터처리프로그래밍 3.0 C+교선 논리적 사고 2.0 A0교선 인류문명과 에너지원의 변천사 3.0 B0교선 지성학Ⅱ 2.0 P취득학점 : 10.0   평점 : 3.06   백분율 : 85.60\n이    하    여    백\n백 분 율 : 90.80취득학점 : 120.0평    점 : 3.58 / 4.5\n───────────────────────────────────────────────────────\n───────────────────────────────────────────────────────\n──────────────────────────────────────────────────────────────\n\nQuestion: 장기적인 커리어 계획은 어떻게 되나요?",
+    "output": "Based on the academic performance and course selection in industrial mathematics, Linux, image processing, and comprehensive projects, along with a strong foundation in probability and statistics, the individual has a solid background in technical skills. However, the performance in data processing programming could be improved. Overall, a long-term career plan may involve further developing programming skills to complement the existing expertise in mathematics and technical projects for a well-rounded skill set in the field of technology."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 2024 학년도 1학기전선 공업수학1 3.0 B+전선 리눅스 3.0 C0전선 영상처리 3.0 B+전선 종합프로젝트 3.0 A+계교 확률과 통계 3.0 B0취득학점 : 15.0   평점 : 3.30   백분율 : 88.00\n2024 학년도 2학기전선 데이터처리프로그래밍 3.0 C+교선 논리적 사고 2.0 A0교선 인류문명과 에너지원의 변천사 3.0 B0교선 지성학Ⅱ 2.0 P취득학점 : 10.0   평점 : 3.06   백분율 : 85.60\n이    하    여    백\n백 분 율 : 90.80취득학점 : 120.0평    점 : 3.58 / 4.5\n───────────────────────────────────────────────────────\n───────────────────────────────────────────────────────\n──────────────────────────────────────────────────────────────\n\nQuestion: AI 관련 프로젝트를 수행한 경험이 있나요?",
+    "output": "Yes, the individual has experience in completing a comprehensive project in the field of AI as indicated by the course \"전선 종합프로젝트\" with a grade of A+."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 2024 학년도 1학기전선 공업수학1 3.0 B+전선 리눅스 3.0 C0전선 영상처리 3.0 B+전선 종합프로젝트 3.0 A+계교 확률과 통계 3.0 B0취득학점 : 15.0   평점 : 3.30   백분율 : 88.00\n2024 학년도 2학기전선 데이터처리프로그래밍 3.0 C+교선 논리적 사고 2.0 A0교선 인류문명과 에너지원의 변천사 3.0 B0교선 지성학Ⅱ 2.0 P취득학점 : 10.0   평점 : 3.06   백분율 : 85.60\n이    하    여    백\n백 분 율 : 90.80취득학점 : 120.0평    점 : 3.58 / 4.5\n───────────────────────────────────────────────────────\n───────────────────────────────────────────────────────\n──────────────────────────────────────────────────────────────\n\nQuestion: 팀 프로젝트 경험이 있나요?",
+    "output": "Yes, the individual has experience with team projects as indicated by their completion of the \"종합프로젝트\" (Comprehensive Project) course with a grade of A+."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 안창훈\n(AI Engineer)\n소개 / About Me\n   항상 지금보다 더 나은 AI Engineer 가 되기 위해 꾸준하고 성실히 노력하고 있는 안창훈입니다.\n   빠르게 변화하는 AI 기술 발전에 새로운 기술 습득도 중요하지만, 기본이 중요하다고 생각합니다.\n   수학에 관심이 많고 이론적인 부분을 공부하는 것을 좋아합니다.\n   남에게 설명할 수 있어야 진정한 나의 지식이라고 생각하며 탐구합니다.\n   토론과 토의를 선호하며, 타인에 대한 존경을 중요시합니다.\n기술 스택 / Skill Set\n기능 구현 등의 사용 경험이 있는 Skill Set\n구분 Skill\nPrograming Languages Python, Tensorflow, Pytorch, Sql\nEnvironment Linux, Git\n사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n\nQuestion: 가장 도전적이었던 경험은 무엇인가요?",
+    "output": "안창훈이에게 가장 도전적이었던 경험은 빠르게 변화하는 AI 기술 발전에 새로운 기술을 습득하고 기본을 탄탄히 다지는 과정이었습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 안창훈\n(AI Engineer)\n소개 / About Me\n   항상 지금보다 더 나은 AI Engineer 가 되기 위해 꾸준하고 성실히 노력하고 있는 안창훈입니다.\n   빠르게 변화하는 AI 기술 발전에 새로운 기술 습득도 중요하지만, 기본이 중요하다고 생각합니다.\n   수학에 관심이 많고 이론적인 부분을 공부하는 것을 좋아합니다.\n   남에게 설명할 수 있어야 진정한 나의 지식이라고 생각하며 탐구합니다.\n   토론과 토의를 선호하며, 타인에 대한 존경을 중요시합니다.\n기술 스택 / Skill Set\n기능 구현 등의 사용 경험이 있는 Skill Set\n구분 Skill\nPrograming Languages Python, Tensorflow, Pytorch, Sql\nEnvironment Linux, Git\n사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n\nQuestion: 당신의 강점을 말해 주세요.",
+    "output": "제 강점은 AI 엔지니어로서 항상 성실하게 노력하며, 수학적 이해와 이론적 지식을 중요시하여 새로운 기술을 꾸준히 습득하는 데 있습니다. 또한, 토론과 타인 존중을 중시하여 협업과 커뮤니케이션을 강조하는 성향을 가지고 있습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 안창훈\n(AI Engineer)\n소개 / About Me\n   항상 지금보다 더 나은 AI Engineer 가 되기 위해 꾸준하고 성실히 노력하고 있는 안창훈입니다.\n   빠르게 변화하는 AI 기술 발전에 새로운 기술 습득도 중요하지만, 기본이 중요하다고 생각합니다.\n   수학에 관심이 많고 이론적인 부분을 공부하는 것을 좋아합니다.\n   남에게 설명할 수 있어야 진정한 나의 지식이라고 생각하며 탐구합니다.\n   토론과 토의를 선호하며, 타인에 대한 존경을 중요시합니다.\n기술 스택 / Skill Set\n기능 구현 등의 사용 경험이 있는 Skill Set\n구분 Skill\nPrograming Languages Python, Tensorflow, Pytorch, Sql\nEnvironment Linux, Git\n사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n\nQuestion: 당신이 다른 지원자보다 뛰어난 점은?",
+    "output": "I excel in my strong foundation in mathematics and theoretical understanding, which I believe are crucial for becoming a proficient AI Engineer. My interest in explaining complex concepts to others demonstrates my deep knowledge. Additionally, my preference for discussions and respect for others set me apart as a candidate who values collaboration and continuous learning in the rapidly evolving field of AI engineering."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 안창훈\n(AI Engineer)\n소개 / About Me\n   항상 지금보다 더 나은 AI Engineer 가 되기 위해 꾸준하고 성실히 노력하고 있는 안창훈입니다.\n   빠르게 변화하는 AI 기술 발전에 새로운 기술 습득도 중요하지만, 기본이 중요하다고 생각합니다.\n   수학에 관심이 많고 이론적인 부분을 공부하는 것을 좋아합니다.\n   남에게 설명할 수 있어야 진정한 나의 지식이라고 생각하며 탐구합니다.\n   토론과 토의를 선호하며, 타인에 대한 존경을 중요시합니다.\n기술 스택 / Skill Set\n기능 구현 등의 사용 경험이 있는 Skill Set\n구분 Skill\nPrograming Languages Python, Tensorflow, Pytorch, Sql\nEnvironment Linux, Git\n사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n\nQuestion: 어떤 역량이 가장 자신 있나요?",
+    "output": "안창훈씨는 프로그래밍 언어 Python, Tensorflow, Pytorch, 그리고 SQL에서 기능 구현 등의 사용 경험이 있어 가장 자신 있다고 할 수 있습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 안창훈\n(AI Engineer)\n소개 / About Me\n   항상 지금보다 더 나은 AI Engineer 가 되기 위해 꾸준하고 성실히 노력하고 있는 안창훈입니다.\n   빠르게 변화하는 AI 기술 발전에 새로운 기술 습득도 중요하지만, 기본이 중요하다고 생각합니다.\n   수학에 관심이 많고 이론적인 부분을 공부하는 것을 좋아합니다.\n   남에게 설명할 수 있어야 진정한 나의 지식이라고 생각하며 탐구합니다.\n   토론과 토의를 선호하며, 타인에 대한 존경을 중요시합니다.\n기술 스택 / Skill Set\n기능 구현 등의 사용 경험이 있는 Skill Set\n구분 Skill\nPrograming Languages Python, Tensorflow, Pytorch, Sql\nEnvironment Linux, Git\n사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n\nQuestion: 문서를 정리하거나 공유하는 데 강점이 있나요?",
+    "output": "Based on the provided portfolio content, there is no explicit mention of document organization or sharing strengths. However, the individual's preference for explaining their knowledge to others and their enjoyment of discussions and debates suggest that they may possess good communication skills, which could potentially translate into effective document organization and sharing abilities."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n개발자 채용 플랫폼\nBirthday 1998.07.11\nEmail ach986634@gmail.com\nMobile 010-5593-2573\nAddress 경기도 하남시\n병역사\n항\n만기 전역\n\nQuestion: 어떤 역량이 가장 자신 있나요?",
+    "output": "저는 C, C++, JAVA 프로그래밍 언어에 대한 이론적 지식을 토대로 역량을 갖추고 있습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n개발자 채용 플랫폼\nBirthday 1998.07.11\nEmail ach986634@gmail.com\nMobile 010-5593-2573\nAddress 경기도 하남시\n병역사\n항\n만기 전역\n\nQuestion: 당신의 기술 스택을 설명해 주세요.",
+    "output": "I have theoretical knowledge in programming languages such as C, C++, and JAVA, as well as experience with Docker environment."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n개발자 채용 플랫폼\nBirthday 1998.07.11\nEmail ach986634@gmail.com\nMobile 010-5593-2573\nAddress 경기도 하남시\n병역사\n항\n만기 전역\n\nQuestion: 최근 주목하는 기술 동향은 무엇인가요?",
+    "output": "사용 경험은 없지만, 이론적 지식이 있는 Skill Set으로 C, C++, JAVA 프로그래밍 언어 및 Docker 환경에 대한 지식을 갖고 있습니다. 최근 주목하는 기술 동향은 컨테이너 기술과 클라우드 컴퓨팅, 머신 러닝 및 인공지능 분야에 있습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n개발자 채용 플랫폼\nBirthday 1998.07.11\nEmail ach986634@gmail.com\nMobile 010-5593-2573\nAddress 경기도 하남시\n병역사\n항\n만기 전역\n\nQuestion: 단점이 있다면 무엇인가요?",
+    "output": "주어진 포트폴리오에서는 사용 경험이 없는 단점이 있을 수 있습니다. 이는 이론적인 지식은 있지만 실무 경험이 부족하다는 것을 의미할 수 있습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 사용경험은 없으나, 이론적 지식이 있는 Skill Set\n구분 Skill\nPrograming Languages C, C++, JAVA\nEnvironment Docker\n개발자 채용 플랫폼\nBirthday 1998.07.11\nEmail ach986634@gmail.com\nMobile 010-5593-2573\nAddress 경기도 하남시\n병역사\n항\n만기 전역\n\nQuestion: 자기 주도적으로 일한 경험이 있나요?",
+    "output": "사용경험은 없으나, 자기 주도적으로 일한 경험이 없습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 과제 프로젝트 경험  * 혼자 혹은 팀 구성으로 프로젝트를 수행한 경험을 최신순으로 작성\nOCR 기술을 활용한 화장품 성분 분석, 비교 및 AI 화장품 추천 서비스 개발 \n작업 기간 2024.03.01 ~ 2024.06.20\n인력 구성 Frontend 1, Backend 2, AI Engineer 1(본인)\n프로젝트 목적 화장품 성분 사진을 통해 텍스트를 추출하고 유저에게 화장품을 추천\n주요업무\n및\n상세역할\n한국어 기반 OCR 모델 개발\n성분 기반으로 화장품의 Score 계산 알고리즘 개발\nCosine 유사도를 활용한 화장품 추천\n사용언어 \n및 개발환경 Python, Tensorflow, Pytorch | 학과 GPU 서버 사용(Linux)\n느낀 점\nAI  모델을 개발하면서 데이터의 중요성을 실감했습니다 .  참고 자료로 활용한  Naver Clovaai 는\n영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n\nQuestion: 리더십을 발휘한 경험이 있다면?",
+    "output": "Based on the portfolio provided, the experience of leading a project team in developing an AI cosmetic ingredient analysis and recommendation service demonstrates leadership skills. As the AI Engineer in the project, taking charge of developing the OCR model, algorithm for calculating cosmetic scores, and utilizing Cosine similarity for product recommendations showcases leadership in driving the technical aspects of the project. Additionally, the initiative to leverage Korean language datasets for training the AI model reflects proactive leadership in adapting resources to ensure project success."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 과제 프로젝트 경험  * 혼자 혹은 팀 구성으로 프로젝트를 수행한 경험을 최신순으로 작성\nOCR 기술을 활용한 화장품 성분 분석, 비교 및 AI 화장품 추천 서비스 개발 \n작업 기간 2024.03.01 ~ 2024.06.20\n인력 구성 Frontend 1, Backend 2, AI Engineer 1(본인)\n프로젝트 목적 화장품 성분 사진을 통해 텍스트를 추출하고 유저에게 화장품을 추천\n주요업무\n및\n상세역할\n한국어 기반 OCR 모델 개발\n성분 기반으로 화장품의 Score 계산 알고리즘 개발\nCosine 유사도를 활용한 화장품 추천\n사용언어 \n및 개발환경 Python, Tensorflow, Pytorch | 학과 GPU 서버 사용(Linux)\n느낀 점\nAI  모델을 개발하면서 데이터의 중요성을 실감했습니다 .  참고 자료로 활용한  Naver Clovaai 는\n영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n\nQuestion: 왜 이 직무에 관심을 가지게 되었나요?",
+    "output": "I became interested in this field due to the project experience of developing an AI cosmetics recommendation service using OCR technology. Through this project, I realized the importance of data in AI model development and was motivated by the challenges and opportunities presented in combining technology with user-oriented solutions in the beauty industry."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 과제 프로젝트 경험  * 혼자 혹은 팀 구성으로 프로젝트를 수행한 경험을 최신순으로 작성\nOCR 기술을 활용한 화장품 성분 분석, 비교 및 AI 화장품 추천 서비스 개발 \n작업 기간 2024.03.01 ~ 2024.06.20\n인력 구성 Frontend 1, Backend 2, AI Engineer 1(본인)\n프로젝트 목적 화장품 성분 사진을 통해 텍스트를 추출하고 유저에게 화장품을 추천\n주요업무\n및\n상세역할\n한국어 기반 OCR 모델 개발\n성분 기반으로 화장품의 Score 계산 알고리즘 개발\nCosine 유사도를 활용한 화장품 추천\n사용언어 \n및 개발환경 Python, Tensorflow, Pytorch | 학과 GPU 서버 사용(Linux)\n느낀 점\nAI  모델을 개발하면서 데이터의 중요성을 실감했습니다 .  참고 자료로 활용한  Naver Clovaai 는\n영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n\nQuestion: 코드 리뷰 경험이 있다면 설명해 주세요.",
+    "output": "Based on the portfolio content provided, the individual does not mention any specific experience related to conducting code reviews. Their focus appears to be on developing an OCR model for analyzing cosmetic ingredients and providing AI-based cosmetic recommendations. Their experience emphasizes tasks like developing an OCR model, creating a scoring algorithm for cosmetics based on ingredients, and utilizing cosine similarity for product recommendations."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 과제 프로젝트 경험  * 혼자 혹은 팀 구성으로 프로젝트를 수행한 경험을 최신순으로 작성\nOCR 기술을 활용한 화장품 성분 분석, 비교 및 AI 화장품 추천 서비스 개발 \n작업 기간 2024.03.01 ~ 2024.06.20\n인력 구성 Frontend 1, Backend 2, AI Engineer 1(본인)\n프로젝트 목적 화장품 성분 사진을 통해 텍스트를 추출하고 유저에게 화장품을 추천\n주요업무\n및\n상세역할\n한국어 기반 OCR 모델 개발\n성분 기반으로 화장품의 Score 계산 알고리즘 개발\nCosine 유사도를 활용한 화장품 추천\n사용언어 \n및 개발환경 Python, Tensorflow, Pytorch | 학과 GPU 서버 사용(Linux)\n느낀 점\nAI  모델을 개발하면서 데이터의 중요성을 실감했습니다 .  참고 자료로 활용한  Naver Clovaai 는\n영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n\nQuestion: 비슷한 업무를 수행한 경험이 있나요?",
+    "output": "Yes, I have experience performing similar tasks to developing an OCR model based on Korean language for cosmetic ingredient analysis and recommendation, as described in your project portfolio."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 과제 프로젝트 경험  * 혼자 혹은 팀 구성으로 프로젝트를 수행한 경험을 최신순으로 작성\nOCR 기술을 활용한 화장품 성분 분석, 비교 및 AI 화장품 추천 서비스 개발 \n작업 기간 2024.03.01 ~ 2024.06.20\n인력 구성 Frontend 1, Backend 2, AI Engineer 1(본인)\n프로젝트 목적 화장품 성분 사진을 통해 텍스트를 추출하고 유저에게 화장품을 추천\n주요업무\n및\n상세역할\n한국어 기반 OCR 모델 개발\n성분 기반으로 화장품의 Score 계산 알고리즘 개발\nCosine 유사도를 활용한 화장품 추천\n사용언어 \n및 개발환경 Python, Tensorflow, Pytorch | 학과 GPU 서버 사용(Linux)\n느낀 점\nAI  모델을 개발하면서 데이터의 중요성을 실감했습니다 .  참고 자료로 활용한  Naver Clovaai 는\n영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n\nQuestion: 최근에 공부한 기술이나 개념은 무엇인가요?",
+    "output": "최근에 공부한 기술은 한국어 기반 OCR 모델 개발 및 성분 기반으로 화장품의 Score 계산 알고리즘 개발, 그리고 Cosine 유사도를 활용한 화장품 추천 기술입니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n화장품 성분 사진에는 텍스트가 과도하게 많아 , 30 자 이하로 잘라서 학습시켰습니다 .  그러나\n데이터와 컴퓨팅 자원의 한계로 인해 Backend 에서 원하는 수준의 완전한 텍스트를 추출하는 데\n어려움이 있었습니다. \n이를 극복하기 위해, 화장품 성분을 GPT Assisant 에 Fine-tuning 하여 OCR 모델이 추출한 텍스트를\n정제하는 방식을 도입했습니다\n참고자료 https://github.com/clovaai/deep-text-recognition-benchmark/tree/master\n개발자 채용 플랫폼\n\nQuestion: 팀원 간 의견 충돌이 있을 때 어떻게 하나요?",
+    "output": "When facing team member disagreements, it is essential to foster open communication and a collaborative atmosphere. Encourage team members to express their viewpoints respectfully, listen actively to each perspective, and work together to find a mutually acceptable solution. Building a culture of constructive feedback and conflict resolution can help mitigate conflicts and promote a positive team dynamic."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n화장품 성분 사진에는 텍스트가 과도하게 많아 , 30 자 이하로 잘라서 학습시켰습니다 .  그러나\n데이터와 컴퓨팅 자원의 한계로 인해 Backend 에서 원하는 수준의 완전한 텍스트를 추출하는 데\n어려움이 있었습니다. \n이를 극복하기 위해, 화장품 성분을 GPT Assisant 에 Fine-tuning 하여 OCR 모델이 추출한 텍스트를\n정제하는 방식을 도입했습니다\n참고자료 https://github.com/clovaai/deep-text-recognition-benchmark/tree/master\n개발자 채용 플랫폼\n\nQuestion: 문제 상황에서 침착하게 대응한 사례가 있다면?",
+    "output": "In the given scenario, a calm and effective response was demonstrated by fine-tuning the GPT Assistant to refine the text extracted by the OCR model, overcoming challenges faced due to limitations in data and computing resources. This proactive approach showcases adaptability and problem-solving skills in dealing with the issues encountered during the development process."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n화장품 성분 사진에는 텍스트가 과도하게 많아 , 30 자 이하로 잘라서 학습시켰습니다 .  그러나\n데이터와 컴퓨팅 자원의 한계로 인해 Backend 에서 원하는 수준의 완전한 텍스트를 추출하는 데\n어려움이 있었습니다. \n이를 극복하기 위해, 화장품 성분을 GPT Assisant 에 Fine-tuning 하여 OCR 모델이 추출한 텍스트를\n정제하는 방식을 도입했습니다\n참고자료 https://github.com/clovaai/deep-text-recognition-benchmark/tree/master\n개발자 채용 플랫폼\n\nQuestion: 어떤 역량이 가장 자신 있나요?",
+    "output": "I am most confident in my ability to leverage GPT Assistant for fine-tuning OCR models to refine extracted text from cosmetic ingredient photos. This approach was implemented to overcome limitations in obtaining complete text extraction due to constraints in data and computing resources."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n화장품 성분 사진에는 텍스트가 과도하게 많아 , 30 자 이하로 잘라서 학습시켰습니다 .  그러나\n데이터와 컴퓨팅 자원의 한계로 인해 Backend 에서 원하는 수준의 완전한 텍스트를 추출하는 데\n어려움이 있었습니다. \n이를 극복하기 위해, 화장품 성분을 GPT Assisant 에 Fine-tuning 하여 OCR 모델이 추출한 텍스트를\n정제하는 방식을 도입했습니다\n참고자료 https://github.com/clovaai/deep-text-recognition-benchmark/tree/master\n개발자 채용 플랫폼\n\nQuestion: 개발 관련 블로그나 포트폴리오가 있나요?",
+    "output": "Yes, the developer has a portfolio related to development work using the Korean pharmaceutical and cosmetic packaging OCR dataset from AI Hub, as well as utilizing GPT Assistant for fine-tuning OCR text extraction. You can find more information at the GitHub repository: https://github.com/clovaai/deep-text-recognition-benchmark/tree/master."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 영어 기반 모델이어서 , AI Hub 의 한국어 의약품 , 화장품 패키징 OCR 데이터셋을 이용해 학습을\n진행했습니다.\n화장품 성분 사진에는 텍스트가 과도하게 많아 , 30 자 이하로 잘라서 학습시켰습니다 .  그러나\n데이터와 컴퓨팅 자원의 한계로 인해 Backend 에서 원하는 수준의 완전한 텍스트를 추출하는 데\n어려움이 있었습니다. \n이를 극복하기 위해, 화장품 성분을 GPT Assisant 에 Fine-tuning 하여 OCR 모델이 추출한 텍스트를\n정제하는 방식을 도입했습니다\n참고자료 https://github.com/clovaai/deep-text-recognition-benchmark/tree/master\n개발자 채용 플랫폼\n\nQuestion: AI 연구에 흥미를 느끼게 된 이유는?",
+    "output": "The reason for developing an interest in AI research was the challenges encountered in extracting complete text at the desired level from skincare product images due to limitations in data and computing resources. This led to the introduction of fine-tuning GPT Assistant on skincare product ingredients to refine the text extracted by the OCR model."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학력\n- 2021.02 ~ 2025.02  가천대학교 컴퓨터공학과 졸업 / 학점 3.58(4.5)\n- 2014.03 ~ 2017.02 00 가온고등학교 졸업\n자격증\n- ADsP (데이터 분석 준전문가) (2024.11 취득)\n- 네트워크 관리사 2 급 (2019.01 취득)\n교육 내용\n- 2024.04 ~ 2024.07 Field Task R&D Undergraduate Intern  \n \n개발자 채용 플랫폼\n\nQuestion: 자신의 약점을 어떻게 보완하나요?",
+    "output": "To address my weaknesses, I actively seek opportunities for professional development and learning. This includes pursuing additional certifications like ADsP and engaging in practical experiences such as my recent internship in Field Task R&D. By continuously expanding my knowledge and skills, I aim to strengthen my abilities and overcome any shortcomings in my expertise."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학력\n- 2021.02 ~ 2025.02  가천대학교 컴퓨터공학과 졸업 / 학점 3.58(4.5)\n- 2014.03 ~ 2017.02 00 가온고등학교 졸업\n자격증\n- ADsP (데이터 분석 준전문가) (2024.11 취득)\n- 네트워크 관리사 2 급 (2019.01 취득)\n교육 내용\n- 2024.04 ~ 2024.07 Field Task R&D Undergraduate Intern  \n \n개발자 채용 플랫폼\n\nQuestion: 학부에서 배운 과목 중 가장 유용했던 것은?",
+    "output": "가장 유용했던 학부에서 배운 과목은 컴퓨터공학과 관련하여 학점 3.58(4.5)을 받은 것으로 보입니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학력\n- 2021.02 ~ 2025.02  가천대학교 컴퓨터공학과 졸업 / 학점 3.58(4.5)\n- 2014.03 ~ 2017.02 00 가온고등학교 졸업\n자격증\n- ADsP (데이터 분석 준전문가) (2024.11 취득)\n- 네트워크 관리사 2 급 (2019.01 취득)\n교육 내용\n- 2024.04 ~ 2024.07 Field Task R&D Undergraduate Intern  \n \n개발자 채용 플랫폼\n\nQuestion: 배운 내용을 실전에 적용한 경험을 말해 주세요.",
+    "output": "I gained practical experience by participating in a Field Task R&D Undergraduate Internship related to developer recruitment platforms from April to July 2024."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학력\n- 2021.02 ~ 2025.02  가천대학교 컴퓨터공학과 졸업 / 학점 3.58(4.5)\n- 2014.03 ~ 2017.02 00 가온고등학교 졸업\n자격증\n- ADsP (데이터 분석 준전문가) (2024.11 취득)\n- 네트워크 관리사 2 급 (2019.01 취득)\n교육 내용\n- 2024.04 ~ 2024.07 Field Task R&D Undergraduate Intern  \n \n개발자 채용 플랫폼\n\nQuestion: 관심 있는 기술 분야는 무엇인가요?",
+    "output": "Based on the provided portfolio, the individual's interest seems to lie in the field of computer science and data analysis, as evidenced by their academic background in computer engineering, certifications in data analysis (ADsP), and their experience in R&D as a Field Task Undergraduate Intern."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 학력\n- 2021.02 ~ 2025.02  가천대학교 컴퓨터공학과 졸업 / 학점 3.58(4.5)\n- 2014.03 ~ 2017.02 00 가온고등학교 졸업\n자격증\n- ADsP (데이터 분석 준전문가) (2024.11 취득)\n- 네트워크 관리사 2 급 (2019.01 취득)\n교육 내용\n- 2024.04 ~ 2024.07 Field Task R&D Undergraduate Intern  \n \n개발자 채용 플랫폼\n\nQuestion: 해당 직무에 강점이 있다고 생각하는 이유는?",
+    "output": "강점은 컴퓨터공학 전공을 통한 학업 성취와 높은 학점, 데이터 분석과 네트워크 관리 관련 자격증 보유, 그리고 현장 실무 경험을 통한 개발자 채용 플랫폼 업무에 대한 이해력을 바탕으로 강점을 보유하고 있다고 판단됩니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Hi Iʼm ChangHoon An\n자비스를  만들고  싶은 , AI Researcher, Engineer 안창훈입니다 .\n🎉Birth \n1998 . 0 7 . 11 \n✉ EMail\nach986634@gmail.com\n🐱 Github\ngithub.com/gnssl98\n📰 Tech Blog\nhttps://sinceredevhoon.tistory.com/\n🧑🏻‍💻About me\n저는  언제나  기본과  이론의  중요성을  믿습니다 .\n논문을  읽고 , 확장하고 , 깊이  탐구하는  과정을  즐깁니다 .\n지식을  공유하고  토론하는  것을  좋아하며 , 타인에게  설명하는  과정이  가장  효과적인  학\n습  방법이라고  믿습니다 .\nAI 는  결국  수학에  기반한  분야이며 , 딥러닝  모델은  본질적으로  확률분포를  근사하는  알\n고리즘이라고  생각합니다 .\nHi Iʼ m ChangHoon An\n1\n\nQuestion: 자신에 대해 설명해 주세요.",
+    "output": "ChangHoon An is an AI Researcher and Engineer who values the importance of fundamentals and theory in his work. He enjoys reading, expanding, and deeply exploring research papers. ChangHoon believes in sharing knowledge, engaging in discussions, and finds explaining concepts to others as an effective way of learning. He sees AI as a field based on mathematics, with deep learning models fundamentally approximating probability distributions."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Hi Iʼm ChangHoon An\n자비스를  만들고  싶은 , AI Researcher, Engineer 안창훈입니다 .\n🎉Birth \n1998 . 0 7 . 11 \n✉ EMail\nach986634@gmail.com\n🐱 Github\ngithub.com/gnssl98\n📰 Tech Blog\nhttps://sinceredevhoon.tistory.com/\n🧑🏻‍💻About me\n저는  언제나  기본과  이론의  중요성을  믿습니다 .\n논문을  읽고 , 확장하고 , 깊이  탐구하는  과정을  즐깁니다 .\n지식을  공유하고  토론하는  것을  좋아하며 , 타인에게  설명하는  과정이  가장  효과적인  학\n습  방법이라고  믿습니다 .\nAI 는  결국  수학에  기반한  분야이며 , 딥러닝  모델은  본질적으로  확률분포를  근사하는  알\n고리즘이라고  생각합니다 .\nHi Iʼ m ChangHoon An\n1\n\nQuestion: 당신은 어떤 사람인가요?",
+    "output": "저는 AI 연구자이자 엔지니어인 안창훈입니다. 기본과 이론의 중요성을 강조하며 논문을 읽고 확장하고 깊이 탐구하는 것을 즐기며, 지식을 공유하고 토론하는 것을 즐기고 있습니다. AI를 수학적으로 이해하고, 딥러닝 모델을 확률분포를 근사하는 알고리즘으로 간주합니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Hi Iʼm ChangHoon An\n자비스를  만들고  싶은 , AI Researcher, Engineer 안창훈입니다 .\n🎉Birth \n1998 . 0 7 . 11 \n✉ EMail\nach986634@gmail.com\n🐱 Github\ngithub.com/gnssl98\n📰 Tech Blog\nhttps://sinceredevhoon.tistory.com/\n🧑🏻‍💻About me\n저는  언제나  기본과  이론의  중요성을  믿습니다 .\n논문을  읽고 , 확장하고 , 깊이  탐구하는  과정을  즐깁니다 .\n지식을  공유하고  토론하는  것을  좋아하며 , 타인에게  설명하는  과정이  가장  효과적인  학\n습  방법이라고  믿습니다 .\nAI 는  결국  수학에  기반한  분야이며 , 딥러닝  모델은  본질적으로  확률분포를  근사하는  알\n고리즘이라고  생각합니다 .\nHi Iʼ m ChangHoon An\n1\n\nQuestion: 본인을 소개해 주세요.",
+    "output": "I am ChangHoon An, an AI Researcher and Engineer who values the importance of fundamentals and theory. I enjoy reading, expanding, and delving deeply into research papers. Sharing knowledge and engaging in discussions are activities I particularly enjoy as I believe explaining concepts to others is an effective way of learning. In my view, AI is fundamentally a mathematical field, and deep learning models are essentially algorithms approximating probability distributions."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Hi Iʼm ChangHoon An\n자비스를  만들고  싶은 , AI Researcher, Engineer 안창훈입니다 .\n🎉Birth \n1998 . 0 7 . 11 \n✉ EMail\nach986634@gmail.com\n🐱 Github\ngithub.com/gnssl98\n📰 Tech Blog\nhttps://sinceredevhoon.tistory.com/\n🧑🏻‍💻About me\n저는  언제나  기본과  이론의  중요성을  믿습니다 .\n논문을  읽고 , 확장하고 , 깊이  탐구하는  과정을  즐깁니다 .\n지식을  공유하고  토론하는  것을  좋아하며 , 타인에게  설명하는  과정이  가장  효과적인  학\n습  방법이라고  믿습니다 .\nAI 는  결국  수학에  기반한  분야이며 , 딥러닝  모델은  본질적으로  확률분포를  근사하는  알\n고리즘이라고  생각합니다 .\nHi Iʼ m ChangHoon An\n1\n\nQuestion: 프로젝트 경험에 대해 말씀해 주세요.",
+    "output": "Based on the provided portfolio, ChangHoon An seems to be an AI researcher and engineer who values the importance of fundamentals and theory. He enjoys reading, expanding, and deeply exploring research papers. He also likes sharing knowledge through discussions and believes explaining concepts to others is an effective way to learn. Additionally, he views AI as a field fundamentally based on mathematics, with deep learning models approximating probability distributions. However, specific project experience details are not mentioned in the portfolio."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Hi Iʼm ChangHoon An\n자비스를  만들고  싶은 , AI Researcher, Engineer 안창훈입니다 .\n🎉Birth \n1998 . 0 7 . 11 \n✉ EMail\nach986634@gmail.com\n🐱 Github\ngithub.com/gnssl98\n📰 Tech Blog\nhttps://sinceredevhoon.tistory.com/\n🧑🏻‍💻About me\n저는  언제나  기본과  이론의  중요성을  믿습니다 .\n논문을  읽고 , 확장하고 , 깊이  탐구하는  과정을  즐깁니다 .\n지식을  공유하고  토론하는  것을  좋아하며 , 타인에게  설명하는  과정이  가장  효과적인  학\n습  방법이라고  믿습니다 .\nAI 는  결국  수학에  기반한  분야이며 , 딥러닝  모델은  본질적으로  확률분포를  근사하는  알\n고리즘이라고  생각합니다 .\nHi Iʼ m ChangHoon An\n1\n\nQuestion: AI 분야에 관심을 가지게 된 계기는?",
+    "output": "AI 분야에 대한 흥미는 수학에 기반한 분야이며, 딥러닝 모델이 본질적으로 확률분포를 근사하는 알고리즘이라고 생각하기 때문입니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Career\nAir Force Information Security SoldierMar.2021  Dec.2022\n🎓  Gachon University Mar. 2018  Feb. 2025, Major in Computer \nEngineering  🖥\nField Task R&D Undergraduate Intern Apr. 2024  Jul. 2024 🧪\n📝  Certificate\n📈  ADsP  데이터  분석  준전문가 )  2024.11 \n🖥  네트워크  관리사  2 급 - 2019.01 ~\n✏  Study\nCalculus, Linear Algebra, Engineering Mathematics, Statistics\nPattern Recognition and Machine Learning by Christoper M. \nBISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\n\nQuestion: 산학 협력 프로젝트에 참여한 적 있나요?",
+    "output": "Yes, the individual participated in a Field Task R&D Undergraduate Internship from April 2024 to July 2024, which indicates involvement in an industry-academic cooperation project."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Career\nAir Force Information Security SoldierMar.2021  Dec.2022\n🎓  Gachon University Mar. 2018  Feb. 2025, Major in Computer \nEngineering  🖥\nField Task R&D Undergraduate Intern Apr. 2024  Jul. 2024 🧪\n📝  Certificate\n📈  ADsP  데이터  분석  준전문가 )  2024.11 \n🖥  네트워크  관리사  2 급 - 2019.01 ~\n✏  Study\nCalculus, Linear Algebra, Engineering Mathematics, Statistics\nPattern Recognition and Machine Learning by Christoper M. \nBISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\n\nQuestion: 추가로 소개하고 싶은 경험이 있나요?",
+    "output": "네, 저는 정보보안 관련 경력과 컴퓨터 공학 전공에 대한 역량을 가지고 있습니다. 또한, 데이터 분석 준전문가 및 네트워크 관리사 자격증을 보유하고 있습니다. 추가로, 패턴 인식, 기계 학습, 자연어 처리 등 다양한 주제에 대한 학습과 논문 리뷰 경험이 있습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Career\nAir Force Information Security SoldierMar.2021  Dec.2022\n🎓  Gachon University Mar. 2018  Feb. 2025, Major in Computer \nEngineering  🖥\nField Task R&D Undergraduate Intern Apr. 2024  Jul. 2024 🧪\n📝  Certificate\n📈  ADsP  데이터  분석  준전문가 )  2024.11 \n🖥  네트워크  관리사  2 급 - 2019.01 ~\n✏  Study\nCalculus, Linear Algebra, Engineering Mathematics, Statistics\nPattern Recognition and Machine Learning by Christoper M. \nBISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\n\nQuestion: 버전 관리 시스템을 사용한 경험이 있나요?",
+    "output": "Yes, based on the portfolio content provided, there is no explicit mention of experience with version control systems."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Career\nAir Force Information Security SoldierMar.2021  Dec.2022\n🎓  Gachon University Mar. 2018  Feb. 2025, Major in Computer \nEngineering  🖥\nField Task R&D Undergraduate Intern Apr. 2024  Jul. 2024 🧪\n📝  Certificate\n📈  ADsP  데이터  분석  준전문가 )  2024.11 \n🖥  네트워크  관리사  2 급 - 2019.01 ~\n✏  Study\nCalculus, Linear Algebra, Engineering Mathematics, Statistics\nPattern Recognition and Machine Learning by Christoper M. \nBISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\n\nQuestion: 기술 블로그를 운영해 본 경험이 있나요?",
+    "output": "No, based on the provided portfolio content, there is no mention of any experience in operating a technical blog."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Career\nAir Force Information Security SoldierMar.2021  Dec.2022\n🎓  Gachon University Mar. 2018  Feb. 2025, Major in Computer \nEngineering  🖥\nField Task R&D Undergraduate Intern Apr. 2024  Jul. 2024 🧪\n📝  Certificate\n📈  ADsP  데이터  분석  준전문가 )  2024.11 \n🖥  네트워크  관리사  2 급 - 2019.01 ~\n✏  Study\nCalculus, Linear Algebra, Engineering Mathematics, Statistics\nPattern Recognition and Machine Learning by Christoper M. \nBISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\n\nQuestion: 졸업 프로젝트에 대해 설명해 주세요.",
+    "output": "Based on the portfolio content provided, the graduation project is not explicitly mentioned. However, the individual has a background in Computer Engineering from Gachon University and has engaged in Field Task R&D as an undergraduate intern. The individual also possesses certificates in data analysis (ADsP) and network management. The study areas include calculus, linear algebra, statistics, and machine learning. Further details on the graduation project are not provided in the portfolio."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: BISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\nhttps://gnssl98.notion.site/paperreview?pvs=74\nPaper Work\nUnsupervised Anomaly Detection in Network Data(IDS) 를  주제로  SCI 급  논문  목표\n(\nhttps://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection)\n🛠  Project\nHi Iʼ m ChangHoon An\n2\n\nQuestion: 해당 직무에 강점이 있다고 생각하는 이유는?",
+    "output": "Based on the portfolio content provided, I believe I have strengths in the targeted job position because of my deep involvement in NLP studies, paper reviews, and hands-on project experience related to unsupervised anomaly detection in network data. My focus on developing an SCI-level paper in this subject area showcases my dedication and expertise in this field."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: BISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\nhttps://gnssl98.notion.site/paperreview?pvs=74\nPaper Work\nUnsupervised Anomaly Detection in Network Data(IDS) 를  주제로  SCI 급  논문  목표\n(\nhttps://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection)\n🛠  Project\nHi Iʼ m ChangHoon An\n2\n\nQuestion: 학부에서 배운 과목 중 가장 유용했던 것은?",
+    "output": "Based on the portfolio content provided, the most useful subject learned during undergraduate studies would likely be Natural Language Processing (NLP) based on ChangHoon An's focus on NLP Study and Paper Work related to anomaly detection in network data."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: BISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\nhttps://gnssl98.notion.site/paperreview?pvs=74\nPaper Work\nUnsupervised Anomaly Detection in Network Data(IDS) 를  주제로  SCI 급  논문  목표\n(\nhttps://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection)\n🛠  Project\nHi Iʼ m ChangHoon An\n2\n\nQuestion: 당신이 다른 지원자보다 뛰어난 점은?",
+    "output": "Based on the portfolio content provided, your strength lies in your focused research on NLP, paper reviews, and the project aiming to publish a high-quality SCI-level paper on Unsupervised Anomaly Detection in Network Data. This demonstrates your commitment to in-depth study and contribution to the field of AI and anomaly detection, setting you apart from other candidates."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: BISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\nhttps://gnssl98.notion.site/paperreview?pvs=74\nPaper Work\nUnsupervised Anomaly Detection in Network Data(IDS) 를  주제로  SCI 급  논문  목표\n(\nhttps://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection)\n🛠  Project\nHi Iʼ m ChangHoon An\n2\n\nQuestion: 어떤 자격증을 보유하고 있나요?",
+    "output": "Based on the provided portfolio content, there is no specific information available regarding the certifications or qualifications held by the individual."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: BISHOP ~CH4\nNLP Study(https://github.com/gnssl98/NLP_Study)\nPaper Review\nhttps://gnssl98.notion.site/paperreview?pvs=74\nPaper Work\nUnsupervised Anomaly Detection in Network Data(IDS) 를  주제로  SCI 급  논문  목표\n(\nhttps://github.com/gnssl98/2024_AI/tree/main/Anomaly Detection)\n🛠  Project\nHi Iʼ m ChangHoon An\n2\n\nQuestion: 가장 기억에 남는 프로젝트는 무엇인가요?",
+    "output": "The most memorable project is the one focusing on Unsupervised Anomaly Detection in Network Data for a SCI-level paper goal."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Community Detection in Various Network \nDatasets Using Genetic Algorithms\n유전  알고리즘을  활용해  커뮤니티  구조를  탐지\nGlobal 최적화  탐색  기법인  유전  알고리즘 (GA) 와  Local 최적화  알고리즘인  Louvain\n을  결합\nhttps://github.com/gnssl98/GeneticAlgorithm\nField Task R&D Undergraduate Intern\n시계열  데이터를  분할하는  split sequence 기법을  연구\n하이퍼파라미터  조정 , 손실  함수  변경을  통해  성능  개선을  시도\nOCR 기술을  활용한  화장품  성분  분석 , 비교  및  AI \n화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\n\nQuestion: 자신의 커뮤니케이션 스타일은 어떤가요?",
+    "output": "주어진 포트폴리오에 따르면, 저는 협업과 소통을 중요시하는 커뮤니케이션 스타일을 가지고 있습니다. 유전 알고리즘과 Louvain 알고리즘을 결합하여 커뮤니티 구조를 탐지하는 프로젝트와 다양한 기술을 활용한 프로젝트들을 통해 소통과 협업이 중요한 가치로 보입니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Community Detection in Various Network \nDatasets Using Genetic Algorithms\n유전  알고리즘을  활용해  커뮤니티  구조를  탐지\nGlobal 최적화  탐색  기법인  유전  알고리즘 (GA) 와  Local 최적화  알고리즘인  Louvain\n을  결합\nhttps://github.com/gnssl98/GeneticAlgorithm\nField Task R&D Undergraduate Intern\n시계열  데이터를  분할하는  split sequence 기법을  연구\n하이퍼파라미터  조정 , 손실  함수  변경을  통해  성능  개선을  시도\nOCR 기술을  활용한  화장품  성분  분석 , 비교  및  AI \n화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\n\nQuestion: 본인을 소개해 주세요.",
+    "output": "I am a Field Task R&D Undergraduate Intern with experience in researching split sequence techniques for time series data partitioning and exploring hyperparameter adjustments and loss function modifications for performance enhancement. Additionally, I have worked on projects involving OCR technology for cosmetics ingredient analysis, comparison, and AI-based cosmetics recommendation services, as well as developing a community detection method in various network datasets using a combination of Genetic Algorithms and Louvain algorithm. You can find some of my work on GitHub at https://github.com/gnssl98."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Community Detection in Various Network \nDatasets Using Genetic Algorithms\n유전  알고리즘을  활용해  커뮤니티  구조를  탐지\nGlobal 최적화  탐색  기법인  유전  알고리즘 (GA) 와  Local 최적화  알고리즘인  Louvain\n을  결합\nhttps://github.com/gnssl98/GeneticAlgorithm\nField Task R&D Undergraduate Intern\n시계열  데이터를  분할하는  split sequence 기법을  연구\n하이퍼파라미터  조정 , 손실  함수  변경을  통해  성능  개선을  시도\nOCR 기술을  활용한  화장품  성분  분석 , 비교  및  AI \n화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\n\nQuestion: 협업 시 가장 중요하게 생각하는 점은?",
+    "output": "가장 중요하게 생각해야 하는 협업 점은 다양한 네트워크 데이터셋에서 커뮤니티 감지를 위해 유전 알고리즘과 Louvain 알고리즘을 결합하여 글로벌 최적화와 로컬 최적화를 조화롭게 이용하는 능력입니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Community Detection in Various Network \nDatasets Using Genetic Algorithms\n유전  알고리즘을  활용해  커뮤니티  구조를  탐지\nGlobal 최적화  탐색  기법인  유전  알고리즘 (GA) 와  Local 최적화  알고리즘인  Louvain\n을  결합\nhttps://github.com/gnssl98/GeneticAlgorithm\nField Task R&D Undergraduate Intern\n시계열  데이터를  분할하는  split sequence 기법을  연구\n하이퍼파라미터  조정 , 손실  함수  변경을  통해  성능  개선을  시도\nOCR 기술을  활용한  화장품  성분  분석 , 비교  및  AI \n화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\n\nQuestion: 당신이 생각하는 좋은 팀원이란 무엇인가요?",
+    "output": "A good team member is someone who demonstrates a strong work ethic, collaborative spirit, and a proactive approach. They should have a passion for research and innovation, as seen through the use of advanced algorithms like Genetic Algorithms and active involvement in projects related to data analysis and OCR technology development. Effective communication skills, adaptability, and a willingness to learn and improve are also essential qualities in a successful team member."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Community Detection in Various Network \nDatasets Using Genetic Algorithms\n유전  알고리즘을  활용해  커뮤니티  구조를  탐지\nGlobal 최적화  탐색  기법인  유전  알고리즘 (GA) 와  Local 최적화  알고리즘인  Louvain\n을  결합\nhttps://github.com/gnssl98/GeneticAlgorithm\nField Task R&D Undergraduate Intern\n시계열  데이터를  분할하는  split sequence 기법을  연구\n하이퍼파라미터  조정 , 손실  함수  변경을  통해  성능  개선을  시도\nOCR 기술을  활용한  화장품  성분  분석 , 비교  및  AI \n화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\n\nQuestion: 팀원 간 의견 충돌이 있을 때 어떻게 하나요?",
+    "output": "When encountering team disagreements, it is essential to promote open communication and active listening among team members to understand different perspectives. Utilizing conflict resolution techniques such as compromise, consensus-building, or seeking mediation can help navigate and resolve disagreements constructively, fostering a collaborative team environment conducive to effective problem-solving and innovation."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\nNaver Clovaai deep-text-recognition-benchmark 의  OCR 모델  사용\nAI Hub 의  의약품 , 화장품  패키징  OCR 데이터 활용\nLMDBLightning Memory-Mapped Database) 사용\n텍스트가  많은  화장품  성분  사진을  잘라서  학습\n화장품  성분으로  Fine Tunning 한  Gpt Assistant 활용하여  텍스트  정제\n(https://github.com/clovaai/deep-text-recognition-benchmark/tree/master)\nhttps://www.aihub.or.kr/aihubdata/data/view.do?\ncurrMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=633\n\nQuestion: 자기소개 외에 강조하고 싶은 것이 있다면?",
+    "output": "In addition to my self-introduction, I would like to emphasize my experience in developing a cosmetics recommendation service and a Korean OCR model utilizing the Naver Clovaai deep-text-recognition-benchmark and AI Hub's OCR data for pharmaceutical and cosmetic packaging. I have also utilized LMDB for data storage and employed a Fine Tuned Gpt Assistant for text refinement using cosmetics ingredients."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\nNaver Clovaai deep-text-recognition-benchmark 의  OCR 모델  사용\nAI Hub 의  의약품 , 화장품  패키징  OCR 데이터 활용\nLMDBLightning Memory-Mapped Database) 사용\n텍스트가  많은  화장품  성분  사진을  잘라서  학습\n화장품  성분으로  Fine Tunning 한  Gpt Assistant 활용하여  텍스트  정제\n(https://github.com/clovaai/deep-text-recognition-benchmark/tree/master)\nhttps://www.aihub.or.kr/aihubdata/data/view.do?\ncurrMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=633\n\nQuestion: 입사 후 어떤 목표를 이루고 싶나요?",
+    "output": "저의 목표는 화장품 추천 서비스 및 한국어 기반 OCR 모델을 개발하여 혁신적인 기술을 구축하고 산업에 기여하는 것입니다. 또한 AI 기술을 의약품 및 화장품 분야에 적용하여 효율적이고 정확한 데이터 처리를 이루고 싶습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\nNaver Clovaai deep-text-recognition-benchmark 의  OCR 모델  사용\nAI Hub 의  의약품 , 화장품  패키징  OCR 데이터 활용\nLMDBLightning Memory-Mapped Database) 사용\n텍스트가  많은  화장품  성분  사진을  잘라서  학습\n화장품  성분으로  Fine Tunning 한  Gpt Assistant 활용하여  텍스트  정제\n(https://github.com/clovaai/deep-text-recognition-benchmark/tree/master)\nhttps://www.aihub.or.kr/aihubdata/data/view.do?\ncurrMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=633\n\nQuestion: 리더십을 발휘한 경험이 있다면?",
+    "output": "The individual demonstrated leadership by developing a cosmetic recommendation service and a Korean-based OCR model, utilizing Naver Clovaai's deep-text-recognition-benchmark OCR model and AI Hub's pharmaceutical and cosmetic packaging OCR data. They employed LMDB for data storage and utilized a Gpt Assistant fine-tuned with cosmetic ingredients for text refinement."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\nNaver Clovaai deep-text-recognition-benchmark 의  OCR 모델  사용\nAI Hub 의  의약품 , 화장품  패키징  OCR 데이터 활용\nLMDBLightning Memory-Mapped Database) 사용\n텍스트가  많은  화장품  성분  사진을  잘라서  학습\n화장품  성분으로  Fine Tunning 한  Gpt Assistant 활용하여  텍스트  정제\n(https://github.com/clovaai/deep-text-recognition-benchmark/tree/master)\nhttps://www.aihub.or.kr/aihubdata/data/view.do?\ncurrMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=633\n\nQuestion: 당신의 기술 스택을 설명해 주세요.",
+    "output": "Based on your portfolio content, your technical stack involves developing a cosmetics recommendation service and a Korean OCR model. You utilized the OCR model from Naver Clovaai deep-text-recognition-benchmark and incorporated AI Hub's OCR data for pharmaceutical and cosmetics packaging. LMDB was used for database management, and you fine-tuned a GPT Assistant with cosmetics ingredients for text refinement."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발 \n(https://github.com/gnssl98/graduation_project)\n한국어  기반  OCR 모델  개발\nNaver Clovaai deep-text-recognition-benchmark 의  OCR 모델  사용\nAI Hub 의  의약품 , 화장품  패키징  OCR 데이터 활용\nLMDBLightning Memory-Mapped Database) 사용\n텍스트가  많은  화장품  성분  사진을  잘라서  학습\n화장품  성분으로  Fine Tunning 한  Gpt Assistant 활용하여  텍스트  정제\n(https://github.com/clovaai/deep-text-recognition-benchmark/tree/master)\nhttps://www.aihub.or.kr/aihubdata/data/view.do?\ncurrMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=633\n\nQuestion: 자신에 대해 설명해 주세요.",
+    "output": "Based on the provided portfolio content, I have expertise in developing a cosmetics recommendation service using OCR technology, specifically focusing on Korean language-based OCR models. I have utilized the Naver Clovaai deep-text-recognition-benchmark OCR model and AI Hub's pharmaceutical and cosmetics packaging OCR data. Additionally, I have employed LMDB for data management and trained on images of cosmetics ingredients to fine-tune a Gpt Assistant for text refinement. You can find more details and my work on the provided GitHub links."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발\nCosine similarity 을  활용한  추천\n화장품  성분의  Cosine Matrix 을  만들어  스코어가  높은  것을  추천\nSentence pair classfication\nUse KCBERT Base (beomi/kcbert-base) by Hugging Face\nModel Structure  BERT Encoder Represetations from Transformers\nDatasets\nKlue/nli by Hugging Face datasets\nhttps://github.com/gnssl98/NLP_Study/tree/main/Sentence_pair_classfication\nPortfolio ChatBot\nUse RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\n\nQuestion: 프로젝트를 수행한 경험을 설명해 주세요.",
+    "output": "프로젝트 경험으로는 화장품 추천 서비스를 개발하는 과정에서 Cosine similarity를 활용하여 화장품 성분의 Cosine Matrix를 만들고, 이를 기반으로 스코어가 높은 제품을 추천하는 작업을 수행했습니다. 또한, Sentence pair classification을 위해 KCBERT Base를 사용하여 모델 구조와 데이터셋을 활용하였습니다. 해당 프로젝트에서는 Hugging Face의 RAG, Prompt Engineering, LoRA 등을 이용하여 포트폴리오 챗봇을 개발하였습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발\nCosine similarity 을  활용한  추천\n화장품  성분의  Cosine Matrix 을  만들어  스코어가  높은  것을  추천\nSentence pair classfication\nUse KCBERT Base (beomi/kcbert-base) by Hugging Face\nModel Structure  BERT Encoder Represetations from Transformers\nDatasets\nKlue/nli by Hugging Face datasets\nhttps://github.com/gnssl98/NLP_Study/tree/main/Sentence_pair_classfication\nPortfolio ChatBot\nUse RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\n\nQuestion: AI 관련 프로젝트를 수행한 경험이 있나요?",
+    "output": "예, AI 관련 프로젝트 중 하나로 \"화장품 추천 서비스 개발\"이 있습니다. 이 프로젝트에서는 Cosine similarity를 활용하여 화장품 성분의 Cosine Matrix를 만들어 스코어가 높은 제품을 추천하는 시스템을 개발하였습니다. 또한, Sentence pair classification을 위해 KCBERT Base를 활용하고, 모델 구조는 BERT Encoder Representations from Transformers을 사용하였습니다. 해당 프로젝트는 Klue/nli 데이터셋을 활용하였습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발\nCosine similarity 을  활용한  추천\n화장품  성분의  Cosine Matrix 을  만들어  스코어가  높은  것을  추천\nSentence pair classfication\nUse KCBERT Base (beomi/kcbert-base) by Hugging Face\nModel Structure  BERT Encoder Represetations from Transformers\nDatasets\nKlue/nli by Hugging Face datasets\nhttps://github.com/gnssl98/NLP_Study/tree/main/Sentence_pair_classfication\nPortfolio ChatBot\nUse RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\n\nQuestion: 프로젝트 경험이 있나요?",
+    "output": "네, 화장품 추천 서비스 개발과 Sentence Pair Classification 프로젝트 경험이 있습니다. Cosine similarity를 활용한 화장품 추천 시스템과 KC-BERT를 활용한 Sentence Pair Classification 모델 개발에 참여하였습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발\nCosine similarity 을  활용한  추천\n화장품  성분의  Cosine Matrix 을  만들어  스코어가  높은  것을  추천\nSentence pair classfication\nUse KCBERT Base (beomi/kcbert-base) by Hugging Face\nModel Structure  BERT Encoder Represetations from Transformers\nDatasets\nKlue/nli by Hugging Face datasets\nhttps://github.com/gnssl98/NLP_Study/tree/main/Sentence_pair_classfication\nPortfolio ChatBot\nUse RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\n\nQuestion: 인턴 경험이 있나요?",
+    "output": "Based on the provided portfolio content, there is no explicit mention or indication of any internship experience."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 화장품  추천  서비스  개발\nCosine similarity 을  활용한  추천\n화장품  성분의  Cosine Matrix 을  만들어  스코어가  높은  것을  추천\nSentence pair classfication\nUse KCBERT Base (beomi/kcbert-base) by Hugging Face\nModel Structure  BERT Encoder Represetations from Transformers\nDatasets\nKlue/nli by Hugging Face datasets\nhttps://github.com/gnssl98/NLP_Study/tree/main/Sentence_pair_classfication\nPortfolio ChatBot\nUse RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\n\nQuestion: 비슷한 업무를 수행한 경험이 있나요?",
+    "output": "Yes, I have experience with tasks similar to developing a cosmetics recommendation service based on cosine similarity and creating a cosine matrix of cosmetic ingredients for recommendations. Additionally, I have worked on sentence pair classification using the KCBERT Base model by Hugging Face and datasets such as Klue/nli."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\nLoRA-based Fine-Tuning on Prompt-driven Translation Tasks (ko→en, \nen→ko)\nVector DB  Extract Context  Translation Model(ko-en)  QA \nModel(English)  Translation Model(en-ko)  Output\nModel Structure\nTranslation Model : facebook/mbart-large-50-one-to-many-mmt\nQA Model : google/flan-t5-large\nhttps://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\n\nQuestion: 추가로 소개하고 싶은 경험이 있나요?",
+    "output": "Yes, in addition to the mentioned experiences, I have also worked on developing a Portfolio ChatBot using the GPT API. This project showcases my expertise in natural language processing and artificial intelligence, demonstrating my ability to create interactive and engaging conversational interfaces. You can find more details and explore the project on my GitHub repository at the provided link."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\nLoRA-based Fine-Tuning on Prompt-driven Translation Tasks (ko→en, \nen→ko)\nVector DB  Extract Context  Translation Model(ko-en)  QA \nModel(English)  Translation Model(en-ko)  Output\nModel Structure\nTranslation Model : facebook/mbart-large-50-one-to-many-mmt\nQA Model : google/flan-t5-large\nhttps://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\n\nQuestion: 가장 인상 깊었던 강의나 교수님은 누구인가요?",
+    "output": "The most impressive lecture or professor was not explicitly mentioned in the provided portfolio content. The focus of the portfolio appears to be on projects related to RAG, HuggingFace, Prompt Engineering, LoRA-based Fine-Tuning on Translation Tasks, and Portfolio ChatBot development using GPT API."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\nLoRA-based Fine-Tuning on Prompt-driven Translation Tasks (ko→en, \nen→ko)\nVector DB  Extract Context  Translation Model(ko-en)  QA \nModel(English)  Translation Model(en-ko)  Output\nModel Structure\nTranslation Model : facebook/mbart-large-50-one-to-many-mmt\nQA Model : google/flan-t5-large\nhttps://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\n\nQuestion: 자신에 대해 설명해 주세요.",
+    "output": "I am a skilled individual with expertise in utilizing RAG, HuggingFace, Prompt Engineering, and LoRA for various translation tasks and model fine-tuning. My portfolio includes projects such as LoRA-based fine-tuning on prompt-driven translation tasks, utilizing models like facebook/mbart-large-50-one-to-many-mmt and google/flan-t5-large for translation and QA purposes. I have also developed a Portfolio ChatBot using the GPT API. You can find more details in my portfolio PDF and resume available on my GitHub repository: https://github.com/gnssl98/Portfolio-chat-bot."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\nLoRA-based Fine-Tuning on Prompt-driven Translation Tasks (ko→en, \nen→ko)\nVector DB  Extract Context  Translation Model(ko-en)  QA \nModel(English)  Translation Model(en-ko)  Output\nModel Structure\nTranslation Model : facebook/mbart-large-50-one-to-many-mmt\nQA Model : google/flan-t5-large\nhttps://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\n\nQuestion: 스트레스를 어떻게 관리하나요?",
+    "output": "To manage stress, you can utilize various techniques such as mindfulness practices, physical exercise, maintaining a healthy work-life balance, seeking support from friends and family, and engaging in activities that bring you joy and relaxation. It's also important to identify the sources of your stress and address them proactively. Remember that self-care and stress management are essential for overall well-being."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use RAG, HuggingFace, Prompt Engineering, LoRA\nUse my portfolio PDF and resume TXT file)\nLoRA-based Fine-Tuning on Prompt-driven Translation Tasks (ko→en, \nen→ko)\nVector DB  Extract Context  Translation Model(ko-en)  QA \nModel(English)  Translation Model(en-ko)  Output\nModel Structure\nTranslation Model : facebook/mbart-large-50-one-to-many-mmt\nQA Model : google/flan-t5-large\nhttps://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\n\nQuestion: 기술적인 어려움을 극복한 경험을 알려 주세요.",
+    "output": "I have experience in overcoming technical challenges through projects such as LoRA-based Fine-Tuning on Prompt-driven Translation Tasks and developing a Portfolio ChatBot using the GPT API. These projects required navigating complexities in areas such as prompt engineering, model fine-tuning, and integrating various technologies like RAG and HuggingFace. This exposure has equipped me with the skills to troubleshoot and overcome technical hurdles effectively."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: https://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\nUse RAG, GPT API  ✅ ) , AWS(~ing)\nHi Iʼ m ChangHoon An\n4\n\nQuestion: 자기소개를 해주세요.",
+    "output": "안녕하세요, 저는 창훈 안입니다. 포트폴리오 챗봇을 개발 중인 개발자입니다. 현재 RAG, GPT API, 그리고 AWS를 활용하여 프로젝트를 진행 중입니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: https://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\nUse RAG, GPT API  ✅ ) , AWS(~ing)\nHi Iʼ m ChangHoon An\n4\n\nQuestion: 학습을 위해 어떤 노력을 하나요?",
+    "output": "Based on the context provided in the portfolio, the individual appears to be working on a ChatBot project using RAG, GPT API, and AWS for learning purposes."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: https://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\nUse RAG, GPT API  ✅ ) , AWS(~ing)\nHi Iʼ m ChangHoon An\n4\n\nQuestion: 팀원 간 의견 충돌이 있을 때 어떻게 하나요?",
+    "output": "In the context of the mentioned portfolio, a possible approach to handling team disagreements could involve open communication, active listening, seeking compromise, and involving a mediator if necessary to facilitate resolution effectively."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: https://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\nUse RAG, GPT API  ✅ ) , AWS(~ing)\nHi Iʼ m ChangHoon An\n4\n\nQuestion: 스트레스를 어떻게 관리하나요?",
+    "output": "As per the provided portfolio content, the project focuses on developing a ChatBot using the GPT API and AWS. For information on managing stress, the portfolio content does not directly address this topic. If you have any other questions or need assistance related to the portfolio project, feel free to ask."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: https://github.com/gnssl98/Portfolio-chat-bot\nPortfolio ChatBot Using GPT API(~ing)\nUse RAG, GPT API  ✅ ) , AWS(~ing)\nHi Iʼ m ChangHoon An\n4\n\nQuestion: 가장 기억에 남는 프로젝트는 무엇인가요?",
+    "output": "Based on the provided context, the most memorable project is the Portfolio ChatBot utilizing the GPT API, RAG, and AWS."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use my portfolio PDF and resume TXT file)\nhttps://github.com/gnssl98/Portfolio-chat-bot_gpt\nHi Iʼ m ChangHoon An\n5\n\nQuestion: 협업 시 가장 중요하게 생각하는 점은?",
+    "output": "When it comes to collaboration, I prioritize effective communication, mutual respect, and clear goal setting as the most important aspects."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use my portfolio PDF and resume TXT file)\nhttps://github.com/gnssl98/Portfolio-chat-bot_gpt\nHi Iʼ m ChangHoon An\n5\n\nQuestion: 리더십을 발휘한 경험이 있다면?",
+    "output": "Based on the provided portfolio content, ChangHoon An has demonstrated leadership skills through his experiences. However, specific details about his leadership experiences would require further information from the portfolio PDF or resume files."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use my portfolio PDF and resume TXT file)\nhttps://github.com/gnssl98/Portfolio-chat-bot_gpt\nHi Iʼ m ChangHoon An\n5\n\nQuestion: 최근에 공부한 기술이나 개념은 무엇인가요?",
+    "output": "Based on the portfolio provided, the most recent technologies or concepts ChangHoon An has studied are not explicitly mentioned. For detailed information on the latest skills and concepts studied by ChangHoon An, reviewing the portfolio PDF and resume would be necessary."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use my portfolio PDF and resume TXT file)\nhttps://github.com/gnssl98/Portfolio-chat-bot_gpt\nHi Iʼ m ChangHoon An\n5\n\nQuestion: 가장 기억에 남는 프로젝트는 무엇인가요?",
+    "output": "Based on your portfolio and resume, your most memorable project is likely the one that you are most proud of or that had a significant impact on your skills and experiences. Please provide more specific details or project names from your portfolio for a more accurate answer."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: Use my portfolio PDF and resume TXT file)\nhttps://github.com/gnssl98/Portfolio-chat-bot_gpt\nHi Iʼ m ChangHoon An\n5\n\nQuestion: AI 분야에 관심을 가지게 된 계기는?",
+    "output": "Based on the portfolio content provided, ChangHoon An's interest in the field of AI likely developed due to a genuine curiosity or interest in the subject matter. Further details regarding the specific catalyst for this interest are not clearly outlined in the given context."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 기술 스택:\n\n프로그래밍 언어:\n- Python (주 언어)\n- SQL\n- C\n- C++\n- Java\n- JavaScript\n\n\nAI/ML:\n- TensorFlow\n- PyTorch\n- LangChain\n- OpenAI API\n- Hugging Face Transformers\n\n웹 개발:\n- Node.js\n- Flask\n\n\n기타 기술:\n- Git\n- Docker\n- AWS\n- Linux\n- RESTful API\n\nQuestion: 참여한 프로젝트 중 가장 인상 깊었던 것은?",
+    "output": "가장 인상 깊었던 프로젝트는 AI/ML 기술과 웹 개발을 결합한 프로젝트였습니다. TensorFlow, PyTorch, Hugging Face Transformers와 Node.js, Flask를 활용하여 AI 알고리즘을 웹 애플리케이션에 통합하는 작업은 기술적으로 흥미로웠고 결과적으로 매우 유용한 경험이었습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 기술 스택:\n\n프로그래밍 언어:\n- Python (주 언어)\n- SQL\n- C\n- C++\n- Java\n- JavaScript\n\n\nAI/ML:\n- TensorFlow\n- PyTorch\n- LangChain\n- OpenAI API\n- Hugging Face Transformers\n\n웹 개발:\n- Node.js\n- Flask\n\n\n기타 기술:\n- Git\n- Docker\n- AWS\n- Linux\n- RESTful API\n\nQuestion: 기술적인 어려움을 극복한 경험을 알려 주세요.",
+    "output": "저는 다양한 프로그래밍 언어 및 기술 스택을 보유하고 있어서 언어나 기술에 대한 새로운 도전이 있을 때마다 기술적인 어려움을 극복하는 데 익숙합니다. 예를 들어, 처음으로 TensorFlow 및 PyTorch를 사용하여 복잡한 AI/ML 모델을 구축하는 과정에서 발생한 어려움을 해결했습니다. 또한 Node.js 및 Flask를 활용해 웹 개발을 진행하면서 발생한 문제들을 해결하는 과정에서도 기술적인 도전에 직면하고 극복해 나갔습니다. 이러한 경험을 통해 제 기술적인 역량을 향상시키고 성장할 수 있었습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 기술 스택:\n\n프로그래밍 언어:\n- Python (주 언어)\n- SQL\n- C\n- C++\n- Java\n- JavaScript\n\n\nAI/ML:\n- TensorFlow\n- PyTorch\n- LangChain\n- OpenAI API\n- Hugging Face Transformers\n\n웹 개발:\n- Node.js\n- Flask\n\n\n기타 기술:\n- Git\n- Docker\n- AWS\n- Linux\n- RESTful API\n\nQuestion: 앞으로 배우고 싶은 기술은 무엇인가요?",
+    "output": "저의 포트폴리오를 고려할 때, 앞으로 배우고 싶은 기술로는 자연어 처리 및 대화형 AI 기술에 더 깊이 파고들고 싶습니다. 추가로, 클라우드 컴퓨팅 및 인프라스트럭처 관리에 대한 지식을 더욱 향상시키는 것도 고려 중입니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 기술 스택:\n\n프로그래밍 언어:\n- Python (주 언어)\n- SQL\n- C\n- C++\n- Java\n- JavaScript\n\n\nAI/ML:\n- TensorFlow\n- PyTorch\n- LangChain\n- OpenAI API\n- Hugging Face Transformers\n\n웹 개발:\n- Node.js\n- Flask\n\n\n기타 기술:\n- Git\n- Docker\n- AWS\n- Linux\n- RESTful API\n\nQuestion: 비슷한 업무를 수행한 경험이 있나요?",
+    "output": "예, Python을 사용하여 AI/ML 모델을 개발하고, TensorFlow 및 PyTorch를 활용한 프로젝트 경험이 있습니다. 또한 Node.js 및 Flask를 사용하여 웹 개발을 수행한 경험이 있습니다. RESTful API를 통해 서비스를 구축한 경험도 있습니다."
+  },
+  {
+    "input": "Answer the following question based on the context.\n\nContext: 기술 스택:\n\n프로그래밍 언어:\n- Python (주 언어)\n- SQL\n- C\n- C++\n- Java\n- JavaScript\n\n\nAI/ML:\n- TensorFlow\n- PyTorch\n- LangChain\n- OpenAI API\n- Hugging Face Transformers\n\n웹 개발:\n- Node.js\n- Flask\n\n\n기타 기술:\n- Git\n- Docker\n- AWS\n- Linux\n- RESTful API\n\nQuestion: 자신에 대해 설명해 주세요.",
+    "output": "제 기술 스택은 Python, SQL, C, C++, Java, JavaScript, TensorFlow, PyTorch, LangChain, OpenAI API, Hugging Face Transformers, Node.js, Flask, Git, Docker, AWS, Linux, 그리고 RESTful API입니다. 주로 AI/ML, 웹 개발, 그리고 기타 기술 분야에서 활동하고 있습니다."
+  }
+]

@@ -1,88 +1,96 @@
 import os
 import json
-import torch
+from datasets import load_dataset, Dataset
 from transformers import (
     AutoTokenizer,
     AutoModelForSeq2SeqLM,
-    TrainingArguments,
     Seq2SeqTrainer,
+    Seq2SeqTrainingArguments,
     DataCollatorForSeq2Seq
 )
 from peft import get_peft_model, LoraConfig, TaskType
-from datasets import Dataset
 from dotenv import load_dotenv
-from transformers import Seq2SeqTrainingArguments 
+import torch
 
-# 환경 설정
+# ===== 설정 =====
 load_dotenv()
-BASE_MODEL = "google/flan-t5-large"
-DATA_PATH = "./flan_t5_qa_dataset.jsonl"  # <- JSONL 형식으로 변경
-OUTPUT_DIR = "./flan_t5_lora_finetuned"
+BASE_MODEL = r"D:\dataset\fine_tuned_model\flan-t5-large"
+DATA_PATH = "qa_data_filtered_soft_korean.jsonl"
+OUTPUT_DIR = r"D:\dataset\fine_tuned_model\flan-t5-large-lora"
 
-# 데이터 로딩 (JSONL 방식)
-with open(DATA_PATH, "r", encoding="utf-8") as f:
-    data = [json.loads(line) for line in f]
-dataset = Dataset.from_list(data)
+# ===== 데이터 로딩 =====
+def load_lora_dataset(path):
+    data = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            ex = json.loads(line.strip())
+            question = ex["question"]
+            context = ex["context"]
+            answer = ex["answer"]
+            prompt = f"질문: {question}\n문맥: {context}"
+            data.append({"input": prompt, "output": answer})
+    return Dataset.from_list(data)
 
-# 토크나이저 및 모델 로딩
+# ===== 토크나이저 및 모델 =====
 tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL)
-model = AutoModelForSeq2SeqLM.from_pretrained(BASE_MODEL, torch_dtype=torch.float16).to("cuda")
+model = AutoModelForSeq2SeqLM.from_pretrained(BASE_MODEL).to("cuda")
 
-# LoRA 구성
-lora_config = LoraConfig(
+# ===== LoRA 구성 =====
+peft_config = LoraConfig(
     r=8,
     lora_alpha=16,
-    target_modules=["q", "v"],
-    lora_dropout=0.1,
-    bias="none",
     task_type=TaskType.SEQ_2_SEQ_LM,
+    lora_dropout=0.1,
+    bias="none"
 )
-model = get_peft_model(model, lora_config)
+model = get_peft_model(model, peft_config)
 
-# 전처리
-def preprocess(examples):
+# ===== 데이터 전처리 함수 =====
+def preprocess(example):
     model_inputs = tokenizer(
-        examples["input"], max_length=512, padding="max_length", truncation=True
+        example["input"], max_length=512, truncation=True, padding="max_length"
     )
     labels = tokenizer(
-        examples["output"], max_length=128, padding="max_length", truncation=True
+        example["output"], max_length=128, truncation=True, padding="max_length"
     )
-    model_inputs["labels"] = labels["input_ids"]
+
+    # ❗ pad 토큰은 -100으로 마스킹 (loss 계산에서 무시)
+    labels_ids = [
+        token if token != tokenizer.pad_token_id else -100
+        for token in labels["input_ids"]
+    ]
+
+    model_inputs["labels"] = labels_ids
     return model_inputs
 
-tokenized_dataset = dataset.map(preprocess, batched=True, remove_columns=dataset.column_names)
+# ===== 데이터셋 준비 =====
+dataset = load_lora_dataset(DATA_PATH)
+dataset = dataset.map(preprocess, batched=False)
 
-# 학습 설정
+# ===== 트레이너 설정 =====
 training_args = Seq2SeqTrainingArguments(
     output_dir=OUTPUT_DIR,
     per_device_train_batch_size=4,
-    gradient_accumulation_steps=4,
-    learning_rate=2e-4,
-    num_train_epochs=5,
-    fp16=True,
-    logging_dir="./logs",
+    learning_rate=5e-5,
+    num_train_epochs=3,
+    logging_dir=f"{OUTPUT_DIR}/logs",
     logging_steps=10,
     save_strategy="epoch",
-    save_total_limit=1,
-    report_to="none",
-    predict_with_generate=True,
+    save_total_limit=2,
+    fp16=False,  # 먼저 안정성 확보 위해 꺼둠
+    report_to="none"
 )
 
-# Trainer
-data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 trainer = Seq2SeqTrainer(
     model=model,
     args=training_args,
-    train_dataset=tokenized_dataset,
+    train_dataset=dataset,
     tokenizer=tokenizer,
-    data_collator=data_collator,
+    data_collator=DataCollatorForSeq2Seq(tokenizer, model=model),
 )
 
-# 학습
-trainer.train()
-
-# 저장
-model.save_pretrained(OUTPUT_DIR)
-tokenizer.save_pretrained(OUTPUT_DIR)
-
-print(f"\n LoRA 학습 완료! 모델 저장 위치: {OUTPUT_DIR}")
+# ===== 학습 시작 =====
+if __name__ == "__main__":
+    model.print_trainable_parameters()
+    trainer.train()
+    trainer.save_model(OUTPUT_DIR)
